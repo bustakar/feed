@@ -1,0 +1,30 @@
+---
+import type { Day } from "../lib/feed";
+import { formatDateLongCs } from "../lib/feed";
+
+interface Props {
+  day: Day;
+  /** When true, the date heading links to the day's own page. */
+  linkDate?: boolean;
+}
+
+const { day, linkDate = true } = Astro.props;
+const label = formatDateLongCs(day.date);
+const href = `/den/${day.date}/`;
+---
+
+<section class="day">
+  <h2>
+    {linkDate ? <a href={href}>{label}</a> : label}
+  </h2>
+  <ul class="items">
+    {day.items.map((it) => (
+      <li>
+        <span class="item-body">
+          <a class="title" href={it.url} target="_blank" rel="noopener noreferrer">{it.title}</a>
+          {it.source && <span class="source">— {it.source}</span>}
+        </span>
+      </li>
+    ))}
+  </ul>
+</section>

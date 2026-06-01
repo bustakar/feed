@@ -1,0 +1,57 @@
+---
+import type { GetStaticPaths, Page } from "astro";
+import Base from "../layouts/Base.astro";
+import DayBlock from "../components/DayBlock.astro";
+import { days, totalItems, latestDate, formatDateCs } from "../lib/feed";
+import { site } from "../lib/site";
+import type { Day } from "../lib/feed";
+
+export const getStaticPaths = (({ paginate }) => {
+  return paginate(days, { pageSize: site.daysPerPage });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<Day>;
+}
+const { page } = Astro.props;
+
+const sub =
+  totalItems > 0
+    ? `${totalItems} ${totalItems === 1 ? "novinka" : totalItems < 5 ? "novinky" : "novinek"}` +
+      (latestDate ? ` · naposledy ${formatDateCs(latestDate)}` : "")
+    : "Zatím žádné novinky.";
+
+// JSON-LD: list the headlines on this page for richer indexing.
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: site.title,
+  description: site.description,
+  itemListElement: page.data.flatMap((d) =>
+    d.items.map((it, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url: it.url,
+      name: it.title,
+    })),
+  ),
+};
+---
+
+<Base jsonLd={jsonLd}>
+  <span slot="sub">{sub}</span>
+
+  {page.data.length === 0 && (
+    <p class="empty">Zatím tu nic není — zkuste to zítra.</p>
+  )}
+
+  {page.data.map((day) => <DayBlock day={day} />)}
+
+  {(page.url.prev || page.url.next) && (
+    <nav class="pager">
+      {page.url.prev ? <a href={page.url.prev}>← Novější</a> : <span />}
+      <span class="spacer" />
+      {page.url.next ? <a href={page.url.next}>Starší →</a> : <span />}
+    </nav>
+  )}
+</Base>

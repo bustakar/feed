@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-01",
+  "items": [
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.1",
+      "title": "OpenClaw vydal 2026.6.1-beta.1 se stabilnějším zotavením agentů a CLI runtime, odolnějšími kanály a timeouty pro provider/plugin požadavky.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.1",
+      "source": "OpenClaw GitHub"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
+      "title": "Claude Code 2.1.158 přidal Auto mode na Bedrocku, Vertexu a Foundry pro Opus 4.7 a Opus 4.8 přes CLAUDE_CODE_ENABLE_AUTO_MODE=1.",
+      "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
+      "source": "Claude Code changelog"
+    },
+    {
+      "id": "https://platform.claude.com/docs/en/release-notes/overview#may-29-2026",
+      "title": "Anthropic zpřístupnil Claude Managed Agents webhooks, multiagent orchestration a self-hosted sandboxy na Claude Platform on AWS.",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview#may-29-2026",
+      "source": "Anthropic release notes"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.15.13",
+      "title": "OpenCode 1.15.13 přidal session metadata v API/SDK a předvídatelnější načítání configu od otevřené složky nahoru.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.15.13",
+      "source": "OpenCode GitHub"
+    },
+    {
+      "id": "https://developers.openai.com/codex/changelog#codex-2026-05-28-app",
+      "title": "OpenAI Codex rozšířil Computer Use na Windows a přidal mobilní přístup k desktopovým aplikacím přes Codex app.",
+      "url": "https://developers.openai.com/codex/changelog#codex-2026-05-28-app",
+      "source": "OpenAI Codex changelog"
+    },
+    {
+      "id": "https://ai.google.dev/gemini-api/docs/changelog#may-28-2026",
+      "title": "Gemini API uvedlo GA vizuální modely gemini-3.1-flash-image a gemini-3-pro-image včetně video-to-image generování z uploadu nebo YouTube URL.",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog#may-28-2026",
+      "source": "Gemini API changelog"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/commit/8bae02d5319c619f84f51476188e5b28b2e5816b",
+      "title": "Claude Code 2.1.159 vyšel jako drobný release s interními infrastrukturními vylepšeními bez user-facing změn.",
+      "url": "https://github.com/anthropics/claude-code/commit/8bae02d5319c619f84f51476188e5b28b2e5816b",
+      "source": "Claude Code changelog"
+    },
+    {
+      "id": "https://x.com/theo/status/2061368474132521392",
+      "title": "Theo upozornil na DeepSWE jako agentický benchmark pro coding modely a navázal na Datacurve měření Opus 4.8 proti Opus 4.7 xhigh.",
+      "url": "https://x.com/theo/status/2061368474132521392",
+      "source": "X / Theo"
+    },
+    {
+      "id": "https://ui.shadcn.com/docs/changelog/2026-05-shadcn-eject",
+      "title": "shadcn představil „shadcn eject“, který inlinuje shadcn/tailwind.css a umožní odstranit runtime závislost na balíčku shadcn.",
+      "url": "https://ui.shadcn.com/docs/changelog/2026-05-shadcn-eject",
+      "source": "shadcn changelog"
+    },
+    {
+      "id": "https://x.com/mattpocockuk/status/2061120343922614519",
+      "title": "Matt Pocock upozornil na ostrý UX problém v Claude Code, kde slovo „workflow“ při tvorbě GitHub workflow spouští workflow mód se subagenty.",
+      "url": "https://x.com/mattpocockuk/status/2061120343922614519",
+      "source": "X / Matt Pocock"
+    },
+    {
+      "id": "https://x.com/rauchg/status/2061135404942974982",
+      "title": "Guillermo Rauch popsal rostoucí trend, kdy CEOs a CTOs znovu aktivně kódují díky Claude Code, Codexu a Vercelu.",
+      "url": "https://x.com/rauchg/status/2061135404942974982",
+      "source": "X / Guillermo Rauch"
+    }
+  ]
+}

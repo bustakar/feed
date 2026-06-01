@@ -1,0 +1,37 @@
+---
+import Base from "../layouts/Base.astro";
+import GithubBlock from "../components/GithubBlock.astro";
+import { githubTrending, formatDateCs } from "../lib/feed";
+
+const snap = githubTrending;
+
+const title = "Trending projekty";
+const description =
+  "Nejrychleji rostoucí open-source AI projekty na GitHubu podle přírůstku hvězd.";
+
+const sub = snap
+  ? `Nejrychleji rostoucí AI projekty · ${snap.window_days} dní · ${formatDateCs(snap.date)}`
+  : "Zatím žádná data.";
+
+const jsonLd = snap && {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: title,
+  itemListElement: snap.repos.map((r, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    url: r.url,
+    name: r.repo,
+  })),
+};
+---
+
+<Base title={title} description={description} jsonLd={jsonLd || undefined}>
+  <span slot="sub">{sub}</span>
+
+  {snap ? (
+    <GithubBlock snapshot={snap} />
+  ) : (
+    <p class="empty">Zatím tu nic není — data se generují skriptem.</p>
+  )}
+</Base>

@@ -1,6 +1,5 @@
 ---
 import type { GithubSnapshot } from "../lib/feed";
-import { formatDateCs } from "../lib/feed";
 
 interface Props {
   snapshot: GithubSnapshot;
@@ -21,10 +20,6 @@ function pct(rate: number): string {
 ---
 
 <section class="gh">
-  <h2>
-    GitHub — nejrychleji rostoucí AI projekty
-    <span class="gh-meta">{snapshot.window_days} dní · {formatDateCs(snapshot.date)}</span>
-  </h2>
   <ol class="repos">
     {snapshot.repos.map((r) => (
       <li>

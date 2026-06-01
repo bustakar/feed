@@ -2,8 +2,7 @@
 import type { GetStaticPaths, Page } from "astro";
 import Base from "../layouts/Base.astro";
 import DayBlock from "../components/DayBlock.astro";
-import GithubBlock from "../components/GithubBlock.astro";
-import { days, githubTrending, totalItems, latestDate, formatDateCs } from "../lib/feed";
+import { days, totalItems, latestDate, formatDateCs } from "../lib/feed";
 import { site } from "../lib/site";
 import type { Day } from "../lib/feed";
 
@@ -15,9 +14,6 @@ interface Props {
   page: Page<Day>;
 }
 const { page } = Astro.props;
-
-// The GitHub trending snapshot only renders on the first page.
-const showGithub = page.currentPage === 1 && githubTrending;
 
 const sub =
   totalItems > 0
@@ -45,9 +41,7 @@ const jsonLd = {
 <Base jsonLd={jsonLd}>
   <span slot="sub">{sub}</span>
 
-  {showGithub && <GithubBlock snapshot={githubTrending} />}
-
-  {page.data.length === 0 && !showGithub && (
+  {page.data.length === 0 && (
     <p class="empty">Zatím tu nic není — zkuste to zítra.</p>
   )}
 

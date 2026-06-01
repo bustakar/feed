@@ -98,6 +98,35 @@ const rssUrl = new URL("rss.xml", Astro.site).href;
       a.title { color: var(--fg); text-decoration: none; }
       a.title:hover { color: var(--link); text-decoration: underline; }
       .source { color: var(--muted); font-size: 0.82rem; margin-left: 6px; }
+
+      /* GitHub trending block */
+      .gh { margin-top: 40px; }
+      .gh > h2 {
+        font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em;
+        color: var(--muted); font-weight: 600; margin: 0 0 16px;
+        padding-bottom: 8px; border-bottom: 1px solid var(--rule);
+        display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline;
+      }
+      .gh-meta { text-transform: none; letter-spacing: 0; font-weight: 400; font-size: 0.78rem; }
+      ol.repos { list-style: none; margin: 0; padding: 0; counter-reset: repo; }
+      ol.repos li {
+        padding: 14px 0; border-bottom: 1px solid var(--rule);
+        counter-increment: repo; position: relative; padding-left: 30px;
+      }
+      ol.repos li:last-child { border-bottom: 0; }
+      ol.repos li::before {
+        content: counter(repo); position: absolute; left: 0; top: 14px;
+        color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums;
+      }
+      .repo-head { display: flex; gap: 10px; align-items: baseline; justify-content: space-between; }
+      a.repo-name { color: var(--fg); text-decoration: none; font-weight: 600; }
+      a.repo-name:hover { color: var(--link); text-decoration: underline; }
+      .growth { color: #1a7f37; font-weight: 600; font-size: 0.85rem; flex: none; font-variant-numeric: tabular-nums; }
+      @media (prefers-color-scheme: dark) { .growth { color: #3fb950; } }
+      .repo-desc { margin: 4px 0 6px; font-size: 0.9rem; line-height: 1.45; }
+      .repo-stats { display: flex; flex-wrap: wrap; gap: 12px; color: var(--muted); font-size: 0.8rem; }
+      .repo-stats .lang::before { content: "•"; margin-right: 12px; }
+
       nav.pager { margin-top: 48px; display: flex; justify-content: space-between; gap: 16px; font-size: 0.9rem; }
       nav.pager .spacer { flex: 1; }
       .empty { color: var(--muted); margin-top: 40px; }

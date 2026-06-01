@@ -1,5 +1,9 @@
-// Loads every per-day JSON file in /data at build time, validates lightly,
-// and exposes sorted days for the pages to render. One file = one day.
+// Loads the two content types at build time and exposes them to the pages:
+//   - News: one JSON file per day in /data/news (newest first, paginated).
+//   - GitHub: dated trending snapshots in /data/github; only the most recent
+//     one is rendered. Snapshots are written by scripts/fetch-trending.mjs.
+
+// --- News -----------------------------------------------------------------
 
 export interface FeedItem {
   id: string;
@@ -13,8 +17,7 @@ export interface Day {
   items: FeedItem[];
 }
 
-// Eagerly import all day files. Path is relative to this file (src/lib).
-const modules = import.meta.glob<{ default: Day }>("../../data/*.json", {
+const newsModules = import.meta.glob<{ default: Day }>("../../data/news/*.json", {
   eager: true,
 });
 
@@ -30,8 +33,8 @@ function isValidDay(d: unknown): d is Day {
   );
 }
 
-// All days, newest first. Empty days are dropped.
-export const days: Day[] = Object.values(modules)
+// All news days, newest first. Empty days are dropped.
+export const days: Day[] = Object.values(newsModules)
   .map((m) => m.default)
   .filter(isValidDay)
   .filter((d) => d.items.length > 0)
@@ -40,6 +43,48 @@ export const days: Day[] = Object.values(modules)
 export const totalItems = days.reduce((n, d) => n + d.items.length, 0);
 
 export const latestDate = days[0]?.date;
+
+// --- GitHub trending ------------------------------------------------------
+
+export interface TrendingRepo {
+  repo: string; // owner/name
+  url: string;
+  description: string | null;
+  language: string | null;
+  stars: number; // current total
+  stars_gained: number; // gained over the window
+  growth_rate: number; // stars_gained / stars-at-window-start
+  topics: string[];
+}
+
+export interface GithubSnapshot {
+  date: string; // YYYY-MM-DD (window end)
+  window_days: number;
+  generated_at: string;
+  repos: TrendingRepo[];
+}
+
+const githubModules = import.meta.glob<{ default: GithubSnapshot }>(
+  "../../data/github/*.json",
+  { eager: true },
+);
+
+function isValidSnapshot(s: unknown): s is GithubSnapshot {
+  if (!s || typeof s !== "object") return false;
+  const snap = s as GithubSnapshot;
+  return typeof snap.date === "string" && Array.isArray(snap.repos);
+}
+
+// Only the most recent github snapshot is rendered.
+export const githubTrending: GithubSnapshot | undefined = Object.values(
+  githubModules,
+)
+  .map((m) => m.default)
+  .filter(isValidSnapshot)
+  .filter((s) => s.repos.length > 0)
+  .sort((a, b) => (a.date < b.date ? 1 : -1))[0];
+
+// --- Date formatting ------------------------------------------------------
 
 // Czech long date, e.g. "1. června 2026".
 export function formatDateCs(iso: string): string {

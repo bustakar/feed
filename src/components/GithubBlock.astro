@@ -1,0 +1,46 @@
+---
+import type { GithubSnapshot } from "../lib/feed";
+import { formatDateCs } from "../lib/feed";
+
+interface Props {
+  snapshot: GithubSnapshot;
+}
+
+const { snapshot } = Astro.props;
+
+// 1234 → "1,2 tis." (Czech compact); small numbers stay as-is.
+function compact(n: number): string {
+  if (n >= 1000) return `${(n / 1000).toFixed(1).replace(".", ",").replace(",0", "")} tis.`;
+  return String(n);
+}
+
+function pct(rate: number): string {
+  const p = rate * 100;
+  return p >= 100 ? `+${Math.round(p)} %` : `+${p.toFixed(0)} %`;
+}
+---
+
+<section class="gh">
+  <h2>
+    GitHub — nejrychleji rostoucí AI projekty
+    <span class="gh-meta">{snapshot.window_days} dní · {formatDateCs(snapshot.date)}</span>
+  </h2>
+  <ol class="repos">
+    {snapshot.repos.map((r) => (
+      <li>
+        <div class="repo-head">
+          <a class="repo-name" href={r.url} target="_blank" rel="noopener noreferrer">{r.repo}</a>
+          <span class="growth" title={`+${r.stars_gained} hvězd za ${snapshot.window_days} dní`}>
+            {pct(r.growth_rate)}
+          </span>
+        </div>
+        {r.description && <p class="repo-desc">{r.description}</p>}
+        <div class="repo-stats">
+          <span title="Celkem hvězd">★ {compact(r.stars)}</span>
+          <span title="Přírůstek za okno">+{compact(r.stars_gained)}</span>
+          {r.language && <span class="lang">{r.language}</span>}
+        </div>
+      </li>
+    ))}
+  </ol>
+</section>

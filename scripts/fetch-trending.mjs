@@ -18,7 +18,8 @@
 // Requirements: gcloud authed to a billable GCP project (the script gets an
 // access token via `gcloud auth print-access-token` and calls the BigQuery
 // REST API directly — the `bq` CLI hangs when spawned as a child process here),
-// and a GitHub token (env GITHUB_TOKEN, or falls back to `gh auth token`).
+// and a GitHub token (env GITHUB_TOKEN, falls back to `gh auth token`, then to
+// the token embedded in the repo's HTTPS origin URL if present).
 //
 // Usage:
 //   node scripts/fetch-trending.mjs            # trailing 7 days, top 30 AI repos
@@ -72,15 +73,28 @@ function log(...args) {
   console.log(...args);
 }
 
-/** Resolve a GitHub token from env or the gh CLI. */
+/** Resolve a GitHub token from env, gh CLI, or this repo's HTTPS origin URL. */
 async function getGithubToken() {
   if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN.trim();
   try {
     const { stdout } = await execFileP("gh", ["auth", "token"]);
     return stdout.trim();
   } catch {
+    // The repo is sometimes cloned with a fine-grained token embedded in the
+    // HTTPS origin so cron can pull/push without the gh CLI. Reuse that token
+    // for GitHub REST enrichment, but never print it.
+    try {
+      const { stdout } = await execFileP("git", ["remote", "get-url", "origin"]);
+      const url = new URL(stdout.trim());
+      if (url.hostname === "github.com" && url.username === "x-access-token") {
+        const token = decodeURIComponent(url.password || "").trim();
+        if (token) return token;
+      }
+    } catch {
+      // Ignore and throw the user-facing error below.
+    }
     throw new Error(
-      "No GitHub token. Set GITHUB_TOKEN or run `gh auth login`.",
+      "No GitHub token. Set GITHUB_TOKEN, run `gh auth login`, or use an x-access-token HTTPS origin.",
     );
   }
 }

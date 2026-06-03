@@ -8,9 +8,10 @@
 //   2. Enrich the top candidates via the GitHub REST API (topics, language,
 //      description, current total stars).
 //   3. Keep only repos that look like AI projects (topic/keyword match).
-//   4. Rank by growth rate (stars gained ÷ stars at window start) and write a
-//      dated snapshot to /data/github/<window-end>.json. The Astro build renders
-//      only the most recent github snapshot (see src/lib/feed.ts).
+//   4. Rank by absolute stars gained over the window (growth_rate is kept as an
+//      informational field) and write a dated snapshot to
+//      /data/github/<window-end>.json. The Astro build renders only the most
+//      recent github snapshot (see src/lib/feed.ts).
 //
 // Trigger: this module exports `updateGithubTrending(opts)` so another agent can
 // import and call it; running the file directly invokes it as a CLI.
@@ -308,7 +309,7 @@ export async function updateGithubTrending() {
         topics: Array.isArray(e.meta.topics) ? e.meta.topics.slice(0, 8) : [],
       };
     })
-    .sort((a, b) => b.growth_rate - a.growth_rate)
+    .sort((a, b) => b.stars_gained - a.stars_gained)
     .slice(0, TOP_N);
 
   log(`  ${ranked.length} AI repos after filtering (of ${enriched.length}).`);
@@ -325,11 +326,11 @@ export async function updateGithubTrending() {
   await writeFile(file, JSON.stringify(snapshot, null, 2) + "\n");
   log(`Wrote ${ranked.length} repos → data/github/${windowEnd}.json`);
 
-  // Console preview (growth %, gain, total).
+  // Console preview (gain, total, growth %).
   ranked.slice(0, 15).forEach((r, i) => {
     const pct = `${(r.growth_rate * 100).toFixed(0)}%`;
     log(
-      `  ${String(i + 1).padStart(2)}. ${pct.padStart(5)}  +${String(r.stars_gained).padStart(4)}  ${r.repo}  (${compact(r.stars)})`,
+      `  ${String(i + 1).padStart(2)}. +${String(r.stars_gained).padStart(5)}  ${r.repo}  (${compact(r.stars)}, ${pct})`,
     );
   });
 

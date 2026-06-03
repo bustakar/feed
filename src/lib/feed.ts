@@ -17,13 +17,10 @@ export interface Day {
   items: FeedItem[];
 }
 
-// Read news from data/news/ (the structured location) and, for backward
-// compatibility, legacy flat files in data/ — github snapshots live under
-// data/github/ and are excluded by the non-recursive glob.
-const newsModules = import.meta.glob<{ default: Day }>(
-  ["../../data/news/*.json", "../../data/*.json"],
-  { eager: true },
-);
+// News lives in data/news/ (one file per day). The news agent writes here.
+const newsModules = import.meta.glob<{ default: Day }>("../../data/news/*.json", {
+  eager: true,
+});
 
 function isValidDay(d: unknown): d is Day {
   if (!d || typeof d !== "object") return false;

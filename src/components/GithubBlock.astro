@@ -25,14 +25,14 @@ function pct(rate: number): string {
       <li>
         <div class="repo-head">
           <a class="repo-name" href={r.url} target="_blank" rel="noopener noreferrer">{r.repo}</a>
-          <span class="growth" title={`+${r.stars_gained} hvězd za ${snapshot.window_days} dní`}>
-            {pct(r.growth_rate)}
+          <span class="growth" title={`${pct(r.growth_rate)} za ${snapshot.window_days} dní`}>
+            +{compact(r.stars_gained)} ★
           </span>
         </div>
         {r.description && <p class="repo-desc">{r.description}</p>}
         <div class="repo-stats">
-          <span title="Celkem hvězd">★ {compact(r.stars)}</span>
-          <span title="Přírůstek za okno">+{compact(r.stars_gained)}</span>
+          <span title="Celkem hvězd">★ {compact(r.stars)} celkem</span>
+          <span title="Růst za okno">{pct(r.growth_rate)}</span>
           {r.language && <span class="lang">{r.language}</span>}
         </div>
       </li>

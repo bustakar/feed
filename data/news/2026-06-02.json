@@ -5,31 +5,36 @@
       "id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "title": "OpenAI zpřístupnil frontier modely a Codex na AWS, včetně použití přes Amazon Bedrock a OpenAI-kompatibilní Responses API endpoint.",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source": "OpenAI"
+      "source": "OpenAI",
+      "group": "openai"
     },
     {
       "id": "https://developers.openai.com/codex/changelog#codex-2026-06-01-cli",
       "title": "Codex CLI 0.136.0 přidal archivaci sessions, klikatelné odkazy v TUI markdownu, stdio app-server a bezpečnější remote execution tokeny.",
       "url": "https://developers.openai.com/codex/changelog#codex-2026-06-01-cli",
-      "source": "OpenAI Codex changelog"
+      "source": "OpenAI Codex changelog",
+      "group": "openai"
     },
     {
       "id": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
       "title": "Claude Code 2.1.160 nově potvrzuje zápisy do shell startup a build-tool configů, aby omezil nechtěné spouštění kódu, a opravuje řadu background-agent edge casů.",
       "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
-      "source": "Claude Code changelog"
+      "source": "Claude Code changelog",
+      "group": "anthropic"
     },
     {
       "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.2",
       "title": "OpenClaw 2026.6.1-beta.2 zlepšil zotavení agentů a CLI runtime po přerušených tool callech, odolnost kanálů a timeouty provider/plugin požadavků.",
       "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.1-beta.2",
-      "source": "OpenClaw GitHub"
+      "source": "OpenClaw GitHub",
+      "group": "other"
     },
     {
       "id": "https://ai.google.dev/gemini-api/docs/changelog#june-1-2026",
       "title": "Gemini API vypnul staré modely Gemini 2.0 Flash a Flash-Lite; Google doporučuje migrovat na gemini-3.5-flash nebo gemini-3.1-flash-lite.",
       "url": "https://ai.google.dev/gemini-api/docs/changelog#june-1-2026",
-      "source": "Gemini API changelog"
+      "source": "Gemini API changelog",
+      "group": "google"
     }
   ]
 }

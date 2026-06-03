@@ -95,6 +95,9 @@ export interface ResolvedGroup {
 export function groupForItem(item: FeedItem): ResolvedGroup {
   if (item.group) {
     const key = item.group.toLowerCase();
+    if (key === otherGroup.id || key === otherGroup.label.toLowerCase()) {
+      return otherGroup;
+    }
     const known = newsGroups.find(
       (g) => g.id === key || g.label.toLowerCase() === key,
     );

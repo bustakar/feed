@@ -1,6 +1,6 @@
 ---
 import type { Day } from "../lib/feed";
-import { formatDateLongCs } from "../lib/feed";
+import { formatDateLongCs, groupDayItems } from "../lib/feed";
 
 interface Props {
   day: Day;
@@ -8,18 +8,24 @@ interface Props {
 
 const { day } = Astro.props;
 const label = formatDateLongCs(day.date);
+const groups = groupDayItems(day.items);
 ---
 
 <section class="day">
   <h2>{label}</h2>
-  <ul class="items">
-    {day.items.map((it) => (
-      <li>
-        <span class="item-body">
-          <a class="title" href={it.url} target="_blank" rel="noopener noreferrer">{it.title}</a>
-          {it.source && <span class="source">— {it.source}</span>}
-        </span>
-      </li>
-    ))}
-  </ul>
+  {groups.map((group) => (
+    <div class="group">
+      <h3 class="group-label">{group.label}</h3>
+      <ul class="items">
+        {group.items.map((it) => (
+          <li>
+            <span class="item-body">
+              <a class="title" href={it.url} target="_blank" rel="noopener noreferrer">{it.title}</a>
+              {it.source && <span class="source">— {it.source}</span>}
+            </span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  ))}
 </section>

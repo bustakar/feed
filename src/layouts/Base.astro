@@ -107,6 +107,12 @@ const isTrending = Astro.url.pathname.startsWith("/trending");
       a.title { color: var(--fg); text-decoration: none; }
       a.title:hover { color: var(--link); text-decoration: underline; }
       .source { color: var(--muted); font-size: 0.82rem; margin-left: 6px; }
+      .group { margin-top: 20px; }
+      .group:first-of-type { margin-top: 0; }
+      .group-label {
+        font-size: 0.8rem; font-weight: 600; color: var(--fg);
+        margin: 0 0 4px; letter-spacing: -0.01em;
+      }
 
       /* GitHub trending block */
       .gh { margin-top: 40px; }

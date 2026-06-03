@@ -10,6 +10,9 @@ export interface FeedItem {
   title: string;
   url: string;
   source?: string;
+  // Optional explicit group override. When omitted the group is inferred from
+  // source/title by groupForItem(). Accepts a group id ("anthropic") or label.
+  group?: string;
 }
 
 export interface Day {
@@ -44,6 +47,93 @@ export const days: Day[] = Object.values(newsModules)
 export const totalItems = days.reduce((n, d) => n + d.items.length, 0);
 
 export const latestDate = days[0]?.date;
+
+// --- News groups ----------------------------------------------------------
+
+// Items in a day are clustered under a topical group (e.g. all Anthropic news
+// together). A group can be set explicitly via item.group; otherwise it is
+// inferred from the source + title by the first matching keyword rule below.
+// Anything that matches nothing falls into "Ostatní".
+export interface NewsGroup {
+  id: string;
+  label: string;
+  keywords: string[];
+}
+
+// Order here is the display order within a day (Ostatní is always appended last).
+export const newsGroups: NewsGroup[] = [
+  {
+    id: "anthropic",
+    label: "Anthropic",
+    keywords: ["anthropic", "claude", "opus", "sonnet", "haiku"],
+  },
+  {
+    id: "openai",
+    label: "OpenAI",
+    keywords: ["openai", "codex", "chatgpt", "gpt-", "gpt ", "sora"],
+  },
+  {
+    id: "google",
+    label: "Google",
+    keywords: ["gemini", "deepmind", "google"],
+  },
+  {
+    id: "meta",
+    label: "Meta",
+    keywords: ["llama", "meta ai"],
+  },
+];
+
+export const otherGroup = { id: "other", label: "Ostatní" };
+
+export interface ResolvedGroup {
+  id: string;
+  label: string;
+}
+
+// Resolve a single item to its group: explicit override first, then keywords.
+export function groupForItem(item: FeedItem): ResolvedGroup {
+  if (item.group) {
+    const key = item.group.toLowerCase();
+    const known = newsGroups.find(
+      (g) => g.id === key || g.label.toLowerCase() === key,
+    );
+    if (known) return { id: known.id, label: known.label };
+    return { id: key, label: item.group };
+  }
+  const haystack = `${item.source ?? ""} ${item.title}`.toLowerCase();
+  for (const g of newsGroups) {
+    if (g.keywords.some((k) => haystack.includes(k))) {
+      return { id: g.id, label: g.label };
+    }
+  }
+  return otherGroup;
+}
+
+export interface GroupedItems extends ResolvedGroup {
+  items: FeedItem[];
+}
+
+// Cluster a day's items into ordered groups, preserving item order within each
+// group. Returns only non-empty groups, sorted by newsGroups order (Ostatní last).
+export function groupDayItems(items: FeedItem[]): GroupedItems[] {
+  const order = [...newsGroups.map((g) => g.id), otherGroup.id];
+  const byId = new Map<string, GroupedItems>();
+  for (const item of items) {
+    const g = groupForItem(item);
+    let bucket = byId.get(g.id);
+    if (!bucket) {
+      bucket = { ...g, items: [] };
+      byId.set(g.id, bucket);
+    }
+    bucket.items.push(item);
+  }
+  const rank = (id: string) => {
+    const i = order.indexOf(id);
+    return i === -1 ? order.length : i;
+  };
+  return [...byId.values()].sort((a, b) => rank(a.id) - rank(b.id));
+}
 
 // --- GitHub trending ------------------------------------------------------
 

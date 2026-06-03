@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-03",
+  "items": [
+    {
+      "id": "https://developers.openai.com/codex/changelog#codex-2026-06-02",
+      "title": "OpenAI spustil Sites v preview pro Codex app, takže agent umí vytvářet, ukládat, deployovat a kontrolovat weby a interní nástroje hostované u OpenAI.",
+      "url": "https://developers.openai.com/codex/changelog#codex-2026-06-02",
+      "source": "OpenAI Codex changelog"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md#21161",
+      "title": "Claude Code 2.1.161 přidal OpenTelemetry štítky z OTEL_RESOURCE_ATTRIBUTES, lepší přehled fan-out agentů a opravy paralelních tool callů i background sessions.",
+      "url": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md#21161",
+      "source": "Claude Code changelog"
+    },
+    {
+      "id": "https://developers.openai.com/api/docs/changelog#jun-2-2026-container-billing",
+      "title": "OpenAI změnil účtování eligible container sessions na minutové s pětiminutovým minimem místo plné dvacetiminutové sazby, což zlevňuje kratší agentní běhy.",
+      "url": "https://developers.openai.com/api/docs/changelog#jun-2-2026-container-billing",
+      "source": "OpenAI API changelog"
+    },
+    {
+      "id": "https://developers.openai.com/codex/changelog#codex-2026-06-02-mobile",
+      "title": "Codex Mobile v ChatGPT pro iOS 1.2026.146 přidal Face ID/passcode zámek, volbu defaultního Queue/Steer chování a připojení k Windows strojům přes SSH.",
+      "url": "https://developers.openai.com/codex/changelog#codex-2026-06-02-mobile",
+      "source": "OpenAI Codex changelog"
+    },
+    {
+      "id": "https://cursor.com/blog/cloud-agent-lessons",
+      "title": "Cursor zveřejnil technické poznámky z budování cloud agentů: durable execution platforma, harness a realistická dev prostředí jsou podle něj klíčové nad rámec prostého přesunu lokálního agenta na server.",
+      "url": "https://cursor.com/blog/cloud-agent-lessons",
+      "source": "Cursor"
+    },
+    {
+      "id": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
+      "title": "Vercel popsal, jak Conductor přesunul paralelní coding agenty z lokálního notebooku do cloudu pomocí Vercel Sandboxu pro rychlá vzdálená vývojová prostředí.",
+      "url": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://x.com/tan_stack/status/2061432454456435081",
+      "title": "TanStack AI vydal novou verzi s plně typovaným client/server contextem pro tools a middleware v useChat/chat workflow.",
+      "url": "https://x.com/tan_stack/status/2061432454456435081",
+      "source": "TanStack"
+    }
+  ]
+}

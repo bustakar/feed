@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-04",
+  "items": [
+    {
+      "id": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available",
+      "title": "GitHub uvolnil Copilot SDK jako GA, takže vývojáři mohou stabilně vkládat agentní engine Copilotu do vlastních aplikací, služeb a dev nástrojů.",
+      "url": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview",
+      "title": "GitHub spustil public preview cloudových i lokálních sandboxů pro Copilot, aby agentní běhy a tool execution probíhaly v izolovaném prostředí.",
+      "url": "https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input",
+      "title": "GitHub Copilot CLI dostal velký refresh: rubber duck a hlasový vstup jsou GA, prompt scheduling a nový terminálový režim jsou experimentálně dostupné.",
+      "url": "https://github.blog/changelog/2026-06-02-copilot-cli-improved-ui-rubber-duck-prompt-scheduling-and-voice-input",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/Hcompany/holo31",
+      "title": "H Company vydala Holo3.1, rychlé lokální computer-use agenty pro ovládání desktopu a webu bez cloudové závislosti.",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
+      "title": "Transformers 5.10.1 přidal podporu Gemma 4 Unified/MTP a další modelové novinky pro multimodální a generativní workflow.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
+      "source": "GitHub"
+    },
+    {
+      "id": "https://openai.com/index/wasmer",
+      "title": "OpenAI popsal, jak Wasmer použil Codex s GPT-5.5 k vytvoření Node.js runtime pro edge a zrychlení vývoje z měsíců na týdny.",
+      "url": "https://openai.com/index/wasmer",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "OpenAI rozšířil GPT-Rosalind o lepší biologické reasoning schopnosti, medicinální chemii, genomickou analýzu a experimentální workflow pro life-science výzkum.",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a1",
+      "title": "CrewAI 1.14.7a1 přidal podporu trénovaných agent files, nativního Snowflake Cortex LLM providera a opravy CLI instalace přes uv tool.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a1",
+      "source": "GitHub"
+    }
+  ]
+}

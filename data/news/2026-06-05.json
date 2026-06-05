@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-05",
+  "items": [
+    {
+      "id": "https://developers.openai.com/api/docs/guides/moderation",
+      "title": "OpenAI přidal moderation scores přímo do Responses API a Chat Completions, takže aplikace mohou při generování vracet signály pro logování, routing, review nebo blokování obsahu.",
+      "url": "https://developers.openai.com/api/docs/guides/moderation",
+      "source": "OpenAI Developers"
+    },
+    {
+      "id": "https://developers.openai.com/codex/changelog",
+      "title": "OpenAI Codex app update 26.602 přidal profilové activity insights a share cards a zlepšil start Computer Use i chybové reportování appshotů.",
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+      "title": "GitHub Copilot dostal větší kontextová okna až na jeden milion tokenů a nastavitelné reasoning levels pro hlubší agentní práci.",
+      "url": "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+      "title": "GitHub zpřístupnil Agent tasks REST API pro Copilot Pro, Pro+ a Max, takže lze programově spouštět a sledovat úlohy Copilot cloud agenta.",
+      "url": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
+      "title": "GitHub rozšířil Fix with Copilot pro padající Actions joby na plány Pro, Pro+ a Max, takže cloud agent může jedním klikem navrhnout opravu CI.",
+      "url": "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
+      "title": "Claude Code 2.1.163 přidal řízené min/max verze, `/plugin list`, dodatečný kontext z hooks a opravy pro Bedrock/Vertex, background procesy a Windows/Bazel běhy.",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "source": "Claude Code Changelog"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.16.0",
+      "title": "OpenCode 1.16.0 přidal managed workspace cloning, přesun sessions mezi workspace, file-based agent loading, skill discovery a `run --replay` pro přehrávání sezení.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.16.0",
+      "source": "GitHub Releases"
+    },
+    {
+      "id": "https://huggingface.co/blog/hf-cli-for-agents",
+      "title": "Hugging Face popsal redesign `hf` CLI jako agent-friendly rozhraní pro práci s Hubem, zaměřené na jednodušší skriptování a automatizaci agentů.",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "title": "ServiceNow vydal EVA-Bench Data 2.0 se 121 nástroji a 213 scénáři ve třech doménách pro testování agentů nad reálnějšími tool-use úlohami.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "source": "Hugging Face"
+    }
+  ]
+}

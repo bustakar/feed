@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-06",
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/anthropics/claude-code/main/CHANGELOG.md",
+      "title": "Claude Code 2.1.166 přidal fallback modely, tvrdší ochranu cross-session zpráv a řadu oprav pro background agenty, IDE terminály i Windows/PowerShell běhy.",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "source": "Claude Code Changelog"
+    },
+    {
+      "id": "https://platform.claude.com/docs/en/release-notes/overview#june-5-2026",
+      "title": "Anthropic oznámil deprecaci modelu Claude Opus 4.1 v API s plánovaným vypnutím 5. srpna 2026 a doporučenou migrací na Claude Opus 4.8.",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "source": "Anthropic Release Notes"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.16.2",
+      "title": "OpenCode 1.16.2 zpřísnil bezpečnost editací, opravil Reasoning summaries pro nekompatibilní providery a přidal možnost poslat běžící subagenty na pozadí.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.16.2",
+      "source": "GitHub Releases"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2",
+      "title": "CrewAI 1.14.7a2 přidal chat API a tracing pro conversational flows a lépe surfacuje finish_reason, sampling parametry a response.id v LLM eventech.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2",
+      "source": "GitHub Releases"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.10.2",
+      "title": "Transformers 5.10.2 opravuje chybu v konverzi CLIP-related modelů, která zasahovala mimo jiné SAM3, takže stojí za rychlý update.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.2",
+      "source": "GitHub Releases"
+    },
+    {
+      "id": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "title": "Hugging Face publikoval Thousand Token Wood, ukázku multi-agentní ekonomiky běžící na 3B modelu jako praktický experiment se small-model agenty.",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta",
+      "title": "Vercel spustil Drives pro Vercel Sandbox v private beta, což míří na perzistentní úložiště pro izolované agentní/code-execution prostředí.",
+      "url": "https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/the-skills-sh-api-is-now-available",
+      "title": "Vercel zpřístupnil skills.sh API, další stavební blok pro agentní workflow a programatickou práci se skills.",
+      "url": "https://vercel.com/changelog/the-skills-sh-api-is-now-available",
+      "source": "Vercel Changelog"
+    }
+  ]
+}

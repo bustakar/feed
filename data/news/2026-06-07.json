@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-07",
+  "items": [
+    {
+      "id": "https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated",
+      "title": "GitHub Copilot začal napříč chatem, inline edits, agent módem i completions deprecovat GPT-5.2 a GPT-5.2-Codex, takže integrace a workflow je potřeba přepnout na novější modely.",
+      "url": "https://github.blog/changelog/2026-06-05-gpt-5-2-and-gpt-5-2-codex-deprecated",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview",
+      "title": "GitHub rozšířil enterprise-managed Copilot pluginy do VS Code v public preview, takže firmy mohou centrálně distribuovat pluginy pro Copilot CLI i editorové workflow.",
+      "url": "https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+      "title": "GitHub zpřístupnil Agent tasks REST API pro Copilot Pro, Pro+ a Max, takže cloud-agent úkoly půjde programaticky spouštět a sledovat.",
+      "url": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+      "title": "GitHub Copilot přidal větší kontextová okna až k milionu tokenů a nastavitelné reasoning levels pro hlubší agentní i refaktoringové úkoly.",
+      "url": "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://developers.openai.com/codex/changelog#2026-06-04-codex-cli-0-137-0",
+      "title": "OpenAI vydal Codex CLI 0.137.0 s remote-control RPC správou controller grantů, JSON výpisem pluginů, cloud-managed config bundly a lepším TUI ovládáním.",
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog"
+    },
+    {
+      "id": "https://developers.openai.com/codex/changelog#2026-06-04-codex-app-updates-26-602",
+      "title": "Codex app 26.602 přidal activity insights a share cards v profilu, zlepšil Computer Use startup readiness a opravil browser/review UI detaily.",
+      "url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21168",
+      "title": "Claude Code 2.1.168 je menší release zaměřený na bugfixy a spolehlivost, navazující na větší změny s fallback modely a bezpečnějším cross-session messagingem.",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+      "source": "Claude Code Changelog"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2",
+      "title": "CrewAI 1.14.7a2 přidal chat API a tracing pro conversational flows a lépe vystavuje finish_reason, sampling parametry a response.id v LLM eventech.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2",
+      "source": "GitHub Releases"
+    }
+  ]
+}

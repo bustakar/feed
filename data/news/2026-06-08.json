@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-08",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.166",
+      "title": "Claude Code 2.1.166 přidal fallbackModel až pro tři záložní modely, glob deny pravidla a bezpečnější cross-session messaging mezi agenty.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.166",
+      "source": "Claude Code Releases"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.137.0",
+      "title": "OpenAI Codex CLI 0.137.0 přidal remote-control RPC správu controller grantů, cloud-managed config bundly a JSON výpis pluginů.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.137.0",
+      "source": "OpenAI Codex Releases"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.16.2",
+      "title": "OpenCode 1.16.2 zpřísnil editace proti špatným matchům, dovolil posílat běžící subagenty na pozadí a přidal Snowflake Cortex provider.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.16.2",
+      "source": "OpenCode Releases"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
+      "title": "GitHub zpřístupnil „Fix with Copilot“ pro selhané Actions joby uživatelům Copilot Pro, Pro+ a Max, takže cloud agent může opravu spustit přímo z CI chyby.",
+      "url": "https://github.blog/changelog/2026-06-04-fix-with-copilot-for-failing-actions-now-in-pro-pro-and-max",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+      "title": "GitHub vydal Agent tasks REST API pro Copilot Pro, Pro+ a Max, takže úkoly cloud agenta jdou programaticky spouštět a sledovat.",
+      "url": "https://github.blog/changelog/2026-06-04-agent-tasks-rest-api-now-available-for-copilot-pro-pro-and-max",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+      "title": "GitHub Copilot přidal větší kontextová okna až k milionu tokenů a nastavitelné reasoning levels pro hlubší agentní a refaktoringové úkoly.",
+      "url": "https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2",
+      "title": "CrewAI 1.14.7a2 přidal chat API a tracing pro conversational flows a lépe vystavuje finish_reason, sampling parametry a response.id v LLM eventech.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a2",
+      "source": "CrewAI Releases"
+    }
+  ]
+}

@@ -2,6 +2,24 @@
   "date": "2026-06-09",
   "items": [
     {
+      "id": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "title": "Apple na WWDC26 ukázal novou generaci Apple Intelligence a Siri AI: asistenta s osobním kontextem, porozuměním obrazovce a webovými odpověďmi.",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+      "source": "Apple Newsroom"
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "title": "Apple oznámil Xcode 27 s agentním coding workflow, validací práce agentů, pluginy přes MCP a Agent Client Protocol a novými AI frameworky.",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/",
+      "source": "Apple Newsroom"
+    },
+    {
+      "id": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+      "title": "Apple uvedl, že kvůli DMA nebude Siri AI při vydání iOS 27 a iPadOS 27 dostupná v EU na iPhonu a iPadu; macOS 27 a visionOS 27 dostupnost v EU mají mít.",
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+      "source": "Apple Newsroom"
+    },
+    {
       "id": "https://github.com/openai/codex/releases/tag/rust-v0.138.0",
       "title": "OpenAI Codex CLI 0.138.0 umí předat aktuální vlákno do Codex Desktopu přes /app, lépe pracuje s cestami k obrázkům a přidává JSON výstupy pro plugin automation.",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.138.0",

@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-09",
+  "items": [
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.138.0",
+      "title": "OpenAI Codex CLI 0.138.0 umí předat aktuální vlákno do Codex Desktopu přes /app, lépe pracuje s cestami k obrázkům a přidává JSON výstupy pro plugin automation.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.138.0",
+      "source": "OpenAI Codex Releases"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
+      "title": "Claude Code 2.1.169 přidal safe mode pro start bez customizací, příkaz /cd pro změnu pracovního adresáře a opravy MCP policy enforcementu i background agentů.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
+      "source": "Claude Code Releases"
+    },
+    {
+      "id": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "Hugging Face popisuje OpenEnv jako open-source směr pro agentní RL prostředí a evaluace agentů.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.5",
+      "title": "OpenClaw 2026.6.5-beta.5 zpřísnil práci s MCP tool výsledky, přidal Parallel jako web_search provider a opravil recovery u Anthropic extended-thinking sessions.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.5-beta.5",
+      "source": "OpenClaw Releases"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a3",
+      "title": "CrewAI 1.14.7a3 opravuje ask_for_human_input v experimentálním AgentExecutoru a řeší několik pip-audit CVE závislostí.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a3",
+      "source": "CrewAI Releases"
+    },
+    {
+      "id": "https://github.com/ollama/ollama/releases/tag/v0.30.7",
+      "title": "Ollama 0.30.7 přidává příkaz ollama launch hermes-desktop pro spuštění nativního desktopového rozhraní k Hermes agentovi.",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.7",
+      "source": "Ollama Releases"
+    }
+  ]
+}

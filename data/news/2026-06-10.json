@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-10",
+  "items": [
+    {
+      "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "title": "Anthropic vydal Claude Fable 5 jako nový obecně dostupný model a zpřístupnil ho i v Claude Code 2.1.170.",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Anthropic"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.139.0",
+      "title": "OpenAI Codex CLI 0.139.0 přidal přímé webové vyhledávání z Code módu a lepší zachování schémat pro tool/connector inputy.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.139.0",
+      "source": "OpenAI Codex Releases"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
+      "title": "Claude Code 2.1.170 přidává přístup ke Claude Fable 5 a opravuje ukládání transcriptů při spuštění z VS Code terminálu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
+      "source": "Claude Code Releases"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "title": "Google DeepMind představil Gemma 4 12B, sjednocený multimodální model bez samostatného encoderu.",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "source": "Google DeepMind"
+    },
+    {
+      "id": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "title": "GitHub ukázal, jak v Copilot CLI skládat opakovatelné workflow pomocí custom agentů místo jednorázových promptů.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "source": "GitHub Blog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents",
+      "title": "GitHub přidal bezpečnostní validaci pro third-party coding agenty, aby organizace mohly lépe kontrolovat agentní integrace.",
+      "url": "https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "Cohere na Hugging Face představilo North Mini Code, první model North zaměřený na vývojáře a coding úlohy.",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "title": "Hugging Face popsal migraci GitHub CI na HF Jobs jako cestu k GPU/ML jobům spouštěným z běžného vývojářského workflow.",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "Hugging Face zdůraznil OpenEnv jako open-source základ pro prostředí a evaluace v agentním reinforcement learningu.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.0",
+      "title": "OpenCode 1.17.0 zrychluje file search, zlepšuje MCP chování, přidává Cohere North modely a WSL podporu v Desktopu.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.0",
+      "source": "OpenCode Releases"
+    },
+    {
+      "id": "https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway",
+      "title": "Vercel AI Gateway přidal rozpočty pro API klíče, takže týmy mohou omezovat náklady agentů a aplikací po jednotlivých klíčích.",
+      "url": "https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a4",
+      "title": "CrewAI 1.14.7a4 přidává pluggable default backends pro memory, knowledge, RAG a flow v agentních aplikacích.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a4",
+      "source": "CrewAI Releases"
+    }
+  ]
+}

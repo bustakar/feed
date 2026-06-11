@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-11",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
+      "title": "Claude Code 2.1.172 přidal vnořené sub-agenty až do pěti úrovní a opravil několik chyb kolem background agentů, MCP pravidel a 1M kontextu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions",
+      "title": "GitHub Copilot Chat nově vidí agent sessions, takže může navazovat na práci běžících agentů přímo v GitHub workflow.",
+      "url": "https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-10-dedicated-security-review-command-now-available-in-copilot-cli",
+      "title": "Copilot CLI dostal samostatný security review příkaz pro rychlé bezpečnostní kontroly změn z terminálu.",
+      "url": "https://github.blog/changelog/2026-06-10-dedicated-security-review-command-now-available-in-copilot-cli",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents",
+      "title": "GitHub zavedl bezpečnostní validaci pro third-party coding agenty, což je důležité pro napojování externích agentů na repozitáře.",
+      "url": "https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://cursor.com/blog",
+      "title": "Cursor oznámil, že Bugbot je přes 3× rychlejší, o 22 % levnější a nachází o 10 % víc bugů.",
+      "url": "https://cursor.com/blog",
+      "source": "Cursor"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.0",
+      "title": "OpenCode 1.17 přinesl rychlejší hledání ve velkých projektech, lepší MCP chování, podporu Cohere North modelů a desktopové úpravy.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.0",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
+      "title": "Transformers 5.11 přidává DiffusionGemma, DeepSeek-V3.2 a rozšíření KernelConfig pro integraci vlastních kernelů.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
+      "source": "Hugging Face Transformers"
+    },
+    {
+      "id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.46.0",
+      "title": "Gemini CLI 0.46.0 stabilizuje PTY resize, omezuje spam loop při špatném editoru a přechází na Flash GA model pod experimentálním flagem.",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.46.0",
+      "source": "Gemini CLI"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%406.0.200",
+      "title": "Vercel AI SDK 6.0.200 opravuje chování streamText při prázdném výstupu modelu a hardenuje UI message stream proti prototype pollution přes chunk IDs.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.200",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "Cohere představil North Mini Code jako svůj první model zaměřený na vývojáře.",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway",
+      "title": "Vercel AI Gateway nově umí rozpočty pro API klíče, užitečné pro kontrolu nákladů u agentů a AI aplikací.",
+      "url": "https://vercel.com/changelog/budgets-for-api-keys-on-ai-gateway",
+      "source": "Vercel"
+    }
+  ]
+}

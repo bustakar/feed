@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-12",
+  "items": [
+    {
+      "id": "https://developers.openai.com/codex/changelog#2026-06-11-codex-app-26609",
+      "title": "OpenAI vydal Codex app 26.609 s Developer modem pro Chrome/CDP, příkazem /init a rychlejším Browser use.",
+      "url": "https://developers.openai.com/codex/changelog#2026-06-11-codex-app-26609",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.174",
+      "title": "Claude Code 2.1.174 opravuje background sessions, model picker, skill hot-reload a přidává detailnější usage attribution ve VS Code.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.174",
+      "source": "Anthropic"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.4",
+      "title": "opencode 1.17.4 přidává cwd pro lokální MCP servery, connector auth flowy, v2 session API a lepší logování MCP.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.4",
+      "source": "opencode"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+      "title": "GitHub Agentic Workflows jsou v public preview a umí převádět markdownové agentní úlohy na standardní GitHub Actions.",
+      "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+      "source": "GitHub"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+      "title": "GitHub nově dovolí spouštět workflow pro botem vytvořené pull requesty po explicitním schválení, což pomáhá bezpečným coding-agent flowům.",
+      "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+      "source": "GitHub"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%406.0.202",
+      "title": "Vercel AI SDK 6.0.202 opravuje bezpečnostní replay scénář u schvalování tool callů v generateText a streamText.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.202",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7",
+      "title": "CrewAI 1.14.7 přidává pluggable backendy pro memory/knowledge/RAG/flow, chat API pro flows a nativního Snowflake Cortex providera.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-grok-build",
+      "title": "Vercel plugin je dostupný v Grok Build, takže prototypy z Groku lze rychleji napojit na Vercel deployment workflow.",
+      "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-grok-build",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/deepseek-models-now-available-via-azure-on-ai-gateway",
+      "title": "Vercel AI Gateway přidal DeepSeek modely přes Azure jako další provider za jednotným API endpointem.",
+      "url": "https://vercel.com/changelog/deepseek-models-now-available-via-azure-on-ai-gateway",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "Google DeepMind představil DiffusionGemma zaměřenou na až 4× rychlejší generování textu difuzním přístupem.",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "Google DeepMind"
+    }
+  ]
+}

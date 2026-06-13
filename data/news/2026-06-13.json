@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-13",
+  "items": [
+    {
+      "id": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "title": "GitHub Copilot code review přidal nové konfigurace a kontroly pro jemnější nastavení automatických review v repozitářích.",
+      "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "source": "GitHub"
+    },
+    {
+      "id": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "title": "GitHub popsal, jak v Copilot CLI zpřísnil delegování na agenta, aby lépe rozlišoval mezi přímým spuštěním příkazů a agentním workflow.",
+      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "source": "GitHub"
+    },
+    {
+      "id": "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk",
+      "title": "Vercel AI SDK nově cílí na programování agentních harnessů jako Claude Code, Codex nebo Pi přes jednotné API rozhraní.",
+      "url": "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
+      "title": "Vercel AI Gateway zpřístupnil Kimi K2.7 Code jako další coding model za jednotným gateway endpointem.",
+      "url": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "Ai2 a Hugging Face vydali olmo-eval, evaluační workbench pro modelový vývojový cyklus.",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+      "title": "Transformers 5.12.0 přidává nové multimodální a OCR modely včetně MiniMax-M3-VL a PP-OCRv6.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+      "source": "Hugging Face"
+    }
+  ]
+}

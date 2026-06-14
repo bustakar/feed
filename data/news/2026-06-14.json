@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-14",
+  "items": [
+    {
+      "id": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+      "title": "GitHub spustil Agentic Workflows ve veřejném preview",
+      "url": "https://github.blog/changelog/2026-06-11-github-agentic-workflows-is-now-in-public-preview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "title": "GitHub popisuje selektivnější delegování v Copilot CLI",
+      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "source": "GitHub Blog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "title": "Copilot code review dostal nové konfigurace a kontroly",
+      "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk",
+      "title": "Vercel AI SDK umí programovat agentní harnessy jako Claude Code a Codex",
+      "url": "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
+      "title": "Kimi K2.7 Code je dostupný přes Vercel AI Gateway",
+      "url": "https://vercel.com/changelog/kimi-k2-7-code-now-available-on-ai-gateway",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/olmo-eval",
+      "title": "Allen AI představil olmo-eval pro evaluační smyčku vývoje modelů",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+      "title": "Transformers 5.12.0 přidává nové modely včetně MiniMax-M3-VL",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.6",
+      "title": "OpenCode 1.17.6 zlepšuje kompatibilitu MCP serverů",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.6",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.140.0-alpha.19",
+      "title": "OpenAI Codex vydal nový rust alpha release 0.140.0-alpha.19",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.140.0-alpha.19",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.177",
+      "title": "Claude Code vyšel ve verzi 2.1.177",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.177",
+      "source": "Anthropic"
+    }
+  ]
+}

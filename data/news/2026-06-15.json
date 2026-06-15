@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-15",
+  "items": [
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.7",
+      "title": "OpenCode 1.17.7 přidává MCP client roots pro aktuální workspace",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.7",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.140.0-alpha.19",
+      "title": "OpenAI Codex vydal nový rust alpha release 0.140.0-alpha.19",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.140.0-alpha.19",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%406.0.205",
+      "title": "Vercel AI SDK 6.0.205 aktualizuje AI Gateway závislosti",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.205",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.48.0-nightly.20260613.g9e5599c32",
+      "title": "Gemini CLI má nový nightly release 0.48.0 pro coding agenty",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.48.0-nightly.20260613.g9e5599c32",
+      "source": "Gemini CLI"
+    },
+    {
+      "id": "https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3",
+      "title": "Vercel Workflow SDK nově běží nativně v Nitro v3",
+      "url": "https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3",
+      "source": "Vercel"
+    }
+  ]
+}

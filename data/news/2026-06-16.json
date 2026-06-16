@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-16",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.178",
+      "title": "Claude Code 2.1.178 přidává přesnější pravidla oprávnění pro nástroje",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.178",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.140.0",
+      "title": "OpenAI Codex 0.140.0 přidává /usage a lepší práci s velkými cíli",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.140.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.2",
+      "title": "OpenClaw 2026.6.8 beta zlepšuje doručování do Telegramu a WhatsAppu",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8-beta.2",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes",
+      "title": "Vercel Functions nově poběží až 30 minut pro dlouhé AI úlohy",
+      "url": "https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-15-copilot-usage-metrics-now-include-more-of-your-active-users",
+      "title": "GitHub Copilot metriky nově započítávají víc aktivních uživatelů",
+      "url": "https://github.blog/changelog/2026-06-15-copilot-usage-metrics-now-include-more-of-your-active-users",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
+      "title": "Transformers 5.12.1 opravuje tokenizer a závislosti kolem PEFT/Mistral",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
+      "source": "Hugging Face Transformers"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%406.0.206",
+      "title": "Vercel AI SDK 6.0.206 aktualizuje AI Gateway závislosti",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.206",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.7",
+      "title": "OpenCode 1.17.7 vylepšuje MCP, pluginy a PTY session",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.7",
+      "source": "OpenCode"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-17",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.179",
+      "title": "Claude Code 2.1.179 opravuje výpadky streamu a sandboxové globy",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.179",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.4",
+      "title": "OpenAI Codex 0.141.0-alpha.4 vyšel jako další alpha build CLI",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0-alpha.4",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8",
+      "title": "OpenClaw 2026.6.8 přináší spolehlivější agenty a lepší Telegram/WhatsApp doručování",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.8",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%406.0.207",
+      "title": "Vercel AI SDK 6.0.207 opravuje únik socketů při odmítnutém downloadu",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.207",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-can-now-run-for-up-to-24-hours",
+      "title": "Vercel Sandbox nově poběží až 24 hodin pro delší agentní úlohy",
+      "url": "https://vercel.com/changelog/vercel-sandbox-can-now-run-for-up-to-24-hours",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/glm-5-2-now-available-on-ai-gateway",
+      "title": "Vercel AI Gateway přidává model GLM 5.2",
+      "url": "https://vercel.com/changelog/glm-5-2-now-available-on-ai-gateway",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/workflow-sdk-now-supports-inflight-cancellation",
+      "title": "Vercel Workflow SDK umí rušit právě běžící workflow",
+      "url": "https://vercel.com/changelog/workflow-sdk-now-supports-inflight-cancellation",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-16-github-code-quality-generally-available-july-20-2026",
+      "title": "GitHub Code Quality bude obecně dostupné od 20. července",
+      "url": "https://github.blog/changelog/2026-06-16-github-code-quality-generally-available-july-20-2026",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-16-organization-level-enablement-for-github-code-quality",
+      "title": "GitHub přidává zapnutí Code Quality na úrovni organizace",
+      "url": "https://github.blog/changelog/2026-06-16-organization-level-enablement-for-github-code-quality",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://openai.com/index/deployment-simulation",
+      "title": "OpenAI popisuje simulace nasazení pro předvídání chování modelů",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-19",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
+      "title": "Claude Code 2.1.183 zpřísňuje auto mode proti destruktivním příkazům",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.141.0",
+      "title": "OpenAI Codex CLI 0.141.0 přidává šifrované remote executory a MCP pluginy",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "title": "GitHub Copilot rozšiřuje MAI-Code-1-Flash do CLI, aplikace i chatu",
+      "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "title": "Copilot code review nově čte repo instrukce v AGENTS.md",
+      "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "title": "GitHub Issues dostávají detekci duplicit a MCP podporu pro issue fields",
+      "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a2",
+      "title": "CrewAI 1.14.8 alpha posouvá Flow definice o akce agentů a validaci CEL výrazů",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a2",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchainjs/releases/tag/langchain%401.5.0",
+      "title": "LangChain JS 1.5.0 zpřístupňuje tool-dispatched subagenty ve streamu běhu",
+      "url": "https://github.com/langchain-ai/langchainjs/releases/tag/langchain%401.5.0",
+      "source": "LangChain JS"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "Hugging Face popisuje MosaicLeaks benchmark pro utajení v research agentech",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "Hugging Face ukazuje, jak benchmarkovat otevřené modely na vlastních nástrojích",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "title": "Z.ai představuje GLM-5.2 pro dlouhodobé agentní úlohy",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0a2",
+      "title": "MCP Python SDK 2.0 alpha přidává typy pro nový protokol a migrační cestu",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0a2",
+      "source": "MCP Python SDK"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.89.2",
+      "title": "LiteLLM 1.89.2 zdůrazňuje podepisování Docker imagů přes cosign",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.89.2",
+      "source": "LiteLLM"
+    }
+  ]
+}

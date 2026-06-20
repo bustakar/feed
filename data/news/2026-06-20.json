@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-20",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
+      "title": "Claude Code zpřísňuje auto mode proti destruktivním git příkazům.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.141.0",
+      "title": "OpenAI Codex přidává šifrované remote executory a lepší práci se sandboxem.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/tui%401.0.0-beta.18",
+      "title": "Vercel AI SDK TUI umí předat sandbox nastavení agentovým tool callům.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/tui%401.0.0-beta.18",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "title": "GitHub Copilot code review nově respektuje repository AGENTS.md.",
+      "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "title": "GitHub Issues dostávají detekci duplicit a MCP podporu pro issue fields.",
+      "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "Hugging Face ukazuje, jak benchmarkovat otevřené modely na vlastních nástrojích.",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://vercel.com/blog/agent-stack",
+      "title": "Vercel popisuje svůj Agent Stack pro stavbu AI agentů v produkci.",
+      "url": "https://vercel.com/blog/agent-stack",
+      "source": "Vercel Blog"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a",
+      "title": "CrewAI rozšiřuje FlowDefinition o script/code block, crew actions a each kroky.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "title": "MAI-Code-1-Flash je dostupný v dalších GitHub Copilot rozhraních včetně CLI.",
+      "url": "https://github.blog/changelog/2026-06-18-mai-code-1-flash-available-on-more-copilot-surfaces",
+      "source": "GitHub Changelog"
+    }
+  ]
+}

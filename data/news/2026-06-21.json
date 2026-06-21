@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-21",
+  "items": [
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.9",
+      "title": "OpenCode lépe hlídá limity agentů a přidává nové thinking varianty pro GLM-5.2.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.9",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.9",
+      "title": "OpenClaw 2026.6.9 zlepšuje Telegram výstupy, obnovu agentů a integraci Codexu.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.9",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.90.0-rc.1",
+      "title": "LiteLLM 1.90 RC rozšiřuje toolSpec pro Bedrock Converse a přidává lepší rate-limit chyby.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.90.0-rc.1",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9744",
+      "title": "llama.cpp refaktoruje GBNF gramatiky a opravuje regresi v server-tools.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9744",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "Hugging Face a ServiceNow testují, jestli research agenti udrží tajemství.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
+      "title": "Claude Code zpřesňuje hlášení při čekání na API odpověď a retry režim.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
+      "source": "Claude Code"
+    }
+  ]
+}

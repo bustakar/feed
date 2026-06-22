@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-22",
+  "items": [
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1",
+      "title": "OpenClaw beta zlepšuje spolehlivost agentů, stav sezení a obnovu po restartu.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.9",
+      "title": "OpenCode hlídá limity kroků agentů a opravuje detekci modelů Devstral.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.9",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/tui%401.0.0-beta.18",
+      "title": "Vercel AI SDK TUI přidává sandbox volbu pro nástrojové běhy agentů.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/tui%401.0.0-beta.18",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.90.0-rc.1",
+      "title": "LiteLLM 1.90 RC rozšiřuje podporu Bedrock Converse a lepší chyby rate-limitů.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.90.0-rc.1",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9754",
+      "title": "llama.cpp zpřísňuje generování gramatik a posouvá serverové načítání modelů.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9754",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+      "title": "GitHub Copilot usage metrics API nově ukazuje AI kredity po jednotlivých uživatelích.",
+      "url": "https://github.blog/changelog/2026-06-19-ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
+      "title": "Claude Code zpřesňuje hlášení při čekání na API odpověď a retry režim.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
+      "source": "Claude Code"
+    }
+  ]
+}

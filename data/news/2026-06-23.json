@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-23",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.186",
+      "title": "Claude Code přidává CLI přihlášení a odhlášení pro MCP servery.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.186",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.142.0",
+      "title": "OpenAI Codex 0.142 rozšiřuje práci s limity použití a pluginy.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "OpenAI představuje Daybreak, Codex Security a GPT-5.5-Cyber pro hledání a opravy zranitelností.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
+      "title": "GitHub Copilot v JetBrains IDE přidává Claude jako náhled agentního providera.",
+      "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/claude-design-and-vercel",
+      "title": "Vercel umí nasazovat projekty přímo z Claude Design.",
+      "url": "https://vercel.com/changelog/claude-design-and-vercel",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.2",
+      "title": "OpenClaw beta zavádí automatický fast mode pro krátké agentní odpovědi.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10-beta.2",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9763",
+      "title": "llama.cpp server přidává ID do tool-call odpovědí v Responses API.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9763",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "title": "PaddlePaddle ukazuje PP-OCRv6 na Hugging Face: OCR pro 50 jazyků od 1,5M parametrů.",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face"
+    }
+  ]
+}

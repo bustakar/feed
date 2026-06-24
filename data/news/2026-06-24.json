@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-24",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.187",
+      "title": "Claude Code zpřísňuje sandbox: umí blokovat přístup ke credentials a tajným env proměnným.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.187",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10",
+      "title": "OpenClaw 2026.6.10 přináší automatický fast mode pro krátké agentní konverzace.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.10",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "title": "GitHub Copilot CLI má obecně dostupné nové terminálové rozhraní.",
+      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+      "title": "GitHub Copilot app podporuje BYOK pro agentní sessions s vlastními model providery.",
+      "url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "title": "IBM Research ukazuje CUGA: dvě desítky příkladů pro stavbu agentních aplikací.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "title": "Hugging Face popisuje týdenní release proces huggingface_hub s AI a open toolingem.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/anthropic%403.0.86",
+      "title": "Vercel AI SDK opravuje pořadí tool-use obsahu u Anthropic providera.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/anthropic%403.0.86",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.0",
+      "title": "ComfyUI vydává v0.26.0 s aktualizovaným API kontraktem a dalšími uzly.",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.0",
+      "source": "ComfyUI"
+    }
+  ]
+}

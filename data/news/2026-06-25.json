@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-25",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.191",
+      "title": "Claude Code přidal /rewind pro návrat konverzace před /clear.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.191",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.142.1",
+      "title": "OpenAI Codex 0.142.1 přidal volitelnou podporu systémové proxy ve Windows autentizaci.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.1",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.10",
+      "title": "OpenCode 1.17.10 posílá instrukce MCP serverů do kontextu session a rozšiřuje integrace providerů.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.10",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1",
+      "title": "OpenClaw 2026.6.11 beta zlepšuje řízení agentů v Slacku a Mattermostu.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a5",
+      "title": "CrewAI 1.14.8a5 zlepšuje deklarativní reference napříč flows a crews.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a5",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "title": "Nové terminálové rozhraní GitHub Copilot CLI je obecně dostupné.",
+      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+      "title": "GitHub Copilot app podporuje BYOK pro agentní sessions s vlastními model providery.",
+      "url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://openai.com/index/daybreak-securing-the-world",
+      "title": "OpenAI představilo Daybreak nástroje včetně Codex Security a GPT-5.5-Cyber.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI News"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "title": "IBM na Hugging Face ukazuje CUGA harness a dvě desítky příkladů agentních aplikací.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://vercel.com/changelog/claude-design-and-vercel",
+      "title": "Vercel přidal nasazení z Claude Design přímo na Vercel.",
+      "url": "https://vercel.com/changelog/claude-design-and-vercel",
+      "source": "Vercel Changelog"
+    }
+  ]
+}

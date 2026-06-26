@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-26",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+      "title": "Claude Code přidává přísnější klasifikaci shell příkazů v auto režimu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.142.2",
+      "title": "OpenAI Codex zlepšuje objevování MCP nástrojů přes tool search.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.2",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.11",
+      "title": "OpenCode dostává snapshoty sezení a návrat změn zpět.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.11",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.0",
+      "title": "CrewAI 1.15.0 rozšiřuje conversational flows a deklarativní flow CLI.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.0",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://vercel.com/blog/ai-sdk-7",
+      "title": "Vercel vydal AI SDK 7 s major změnami pro stavbu AI aplikací.",
+      "url": "https://vercel.com/blog/ai-sdk-7",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/deepagents-and-opencode-harness-adapters",
+      "title": "Vercel AI SDK Harness přidává adaptéry pro Deep Agents a OpenCode.",
+      "url": "https://vercel.com/changelog/deepagents-and-opencode-harness-adapters",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+      "title": "GitHub Actions nově umí spouštět kroky workflow paralelně.",
+      "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "title": "Copilot code review má efektivnější analýzu díky nástrojům z Copilot CLI a SDK.",
+      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Hugging Face ukazuje spuštění vLLM serveru v HF Jobs jedním příkazem.",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-27",
+  "items": [
+    {
+      "id": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "OpenAI ukázalo preview modelu GPT-5.6 Sol pro kódování, vědu a kyberbezpečnost.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+      "title": "Claude Code 2.1.195 opravuje hook matchery a přidává vypnutí mouse kliků ve fullscreen režimu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "title": "GitHub Copilot Business a Enterprise dostávají model MAI-Code-1-Flash.",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "title": "GitHub Desktop 3.6 přidává worktrees a hlubší integraci Copilotu.",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1",
+      "title": "OpenClaw beta rozšiřuje automatizaci kanálů o Slack relay, Mattermost queue a modely po DM.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0a3",
+      "title": "MCP Python SDK vydává třetí alpha verzi řady 2.0 s migračním průvodcem.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0a3",
+      "source": "MCP Python SDK"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.4.8",
+      "title": "LangChain Anthropic 1.4.8 opravuje zachování úvodního textu při streamování content bloků.",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.4.8",
+      "source": "LangChain"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9820",
+      "title": "llama.cpp přidává optimalizace plánovače pro méně synchronizací při split compute.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9820",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://vercel.com/changelog/eve-agent-observability",
+      "title": "Vercel Observability nově trasuje a debuguje sezení agenta eve.",
+      "url": "https://vercel.com/changelog/eve-agent-observability",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.3",
+      "title": "Vercel AI SDK 7.0.3 aktualizuje Gateway balíčky v čerstvé patch verzi.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.3",
+      "source": "Vercel AI SDK"
+    }
+  ]
+}

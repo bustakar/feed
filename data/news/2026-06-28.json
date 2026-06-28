@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-28",
+  "items": [
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1",
+      "title": "CrewAI 1.15.1 vylepšuje generování projektů, CLI deploy a opravuje SSRF bypass ve scraping fetchích.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.90.0",
+      "title": "LiteLLM 1.90.0 přidává standardizované rate-limit chyby, MCP OAuth opravy a nové model-management vrstvy.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.90.0",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9828",
+      "title": "llama.cpp b9828 přináší OpenCL vylepšení flash attention pro f16/f32 a kvantované kernely.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9828",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Hugging Face ukazuje spuštění vLLM serveru na HF Jobs jedním příkazem.",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli",
+      "title": "Vercel CLI nově umí dotazovat Web Analytics přímo z terminálu.",
+      "url": "https://vercel.com/changelog/query-web-analytics-from-the-vercel-cli",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+      "title": "GitHub Actions přidává paralelní spouštění kroků pomocí background režimu.",
+      "url": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "title": "Copilot code review zlevňuje a zlepšuje analýzu díky vestavěným file-exploration nástrojům.",
+      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "source": "GitHub Changelog"
+    }
+  ]
+}

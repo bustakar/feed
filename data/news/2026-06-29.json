@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-29",
+  "items": [
+    {
+      "id": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "title": "OpenAI ukázalo náhled GPT-5.6 Sol se silnějším kódováním, vědou a kyberbezpečností.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+      "title": "Claude Code 2.1.195 přidává vypnutí mouse akcí ve fullscreen TUI a opravuje hook matchery.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.2",
+      "title": "OpenClaw 2026.6.11-beta.2 rozšiřuje automatizaci Slacku, Mattermostu a model override pro DM kanály.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11-beta.2",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "title": "GitHub Copilot Business a Enterprise dostávají model MAI-Code-1-Flash pro rychlejší kódování.",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "title": "GitHub Desktop 3.6 přidává worktrees a hlubší Copilot integraci pro commity a merge konflikty.",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0a3",
+      "title": "MCP Python SDK vydává třetí alpha verzi řady 2.0 s migrační cestou pro opt-in testování.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0a3",
+      "source": "MCP Python SDK"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9837",
+      "title": "llama.cpp b9837 přidává přepínač --reasoning-preserve pro zachování reasoning bloků v chatu.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9837",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/fireworks%402.0.62",
+      "title": "Vercel AI SDK přidává provider volbu serviceTier pro Fireworks chat modely.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/fireworks%402.0.62",
+      "source": "Vercel AI SDK"
+    }
+  ]
+}

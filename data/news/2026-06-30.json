@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-30",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.196",
+      "title": "Claude Code 2.1.196 přidává výchozí modely pro organizace a čitelnější zobrazení modelů v CLI.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.196",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://cursor.com/blog/ios-mobile-app",
+      "title": "Cursor spustil veřejnou betu nativní iOS aplikace pro práci s agentem odkudkoli.",
+      "url": "https://cursor.com/blog/ios-mobile-app",
+      "source": "Cursor"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "title": "GitHub Copilot dostává v preview rychlý režim Claude Opus 4.8 pro vyšší rychlost výstupu.",
+      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
+      "title": "vLLM 0.24.0 přináší podporu MiniMax-M3 a velký balík změn pro inference serving.",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
+      "source": "vLLM"
+    },
+    {
+      "id": "https://vercel.com/blog/realtime-voice-agents-on-ai-gateway",
+      "title": "Vercel ukázal stavbu realtime hlasových agentů nad AI Gateway.",
+      "url": "https://vercel.com/blog/realtime-voice-agents-on-ai-gateway",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1",
+      "title": "CrewAI 1.15.1 vylepšuje CLI workflow pro generované projekty, deployment a explicitní definice projektů.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9840",
+      "title": "llama.cpp b9840 přidává základní podporu a konverzi pro DeepSeek V4.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9840",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.7",
+      "title": "Vercel AI SDK 7.0.7 opravuje převod model messages a chování neznámých data částí u tool flow.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.7",
+      "source": "Vercel AI SDK"
+    }
+  ]
+}

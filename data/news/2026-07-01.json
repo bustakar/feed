@@ -1,0 +1,95 @@
+{
+  "date": "2026-07-01",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
+      "title": "Claude Code 2.1.197 zavádí Claude Sonnet 5 jako výchozí model a přidává nativní milionový kontext.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.142.5",
+      "title": "OpenAI Codex 0.142.5 opravuje zapisování plných Responses WebSocket payloadů do trace logů.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.5",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.12",
+      "title": "OpenCode 1.17.12 zapíná adaptive thinking pro Claude Sonnet 5 a opravuje MCP OAuth reconnecty.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.12",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11",
+      "title": "OpenClaw 2026.6.11 stabilizuje odpovědi, odesílání, reconnecty a nastavování modelů v týmových kanálech.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.6.11",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2a1",
+      "title": "CrewAI 1.15.2 alpha přidává inline definice skillů, streamovací protokol pro flows a další tooling kolem agentů.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2a1",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.8",
+      "title": "Vercel AI SDK 7.0.8 přidává první podporu frameImages a inputReferences pro video generation volání.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.8",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0b1",
+      "title": "MCP Python SDK vydává první betu verze 2 s podporou připravované specifikace MCP 2026-07-28.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0b1",
+      "source": "MCP Python SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.0.0-beta.1",
+      "title": "MCP TypeScript SDK 2.0.0 beta otevírá hlavní revizi API pro novou specifikaci MCP.",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.0.0-beta.1",
+      "source": "MCP TypeScript SDK"
+    },
+    {
+      "id": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.0",
+      "title": "ComfyUI 0.27.0 přidává podporu int8 convrot modelů.",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.0",
+      "source": "ComfyUI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "title": "GitHub Copilot zpřístupňuje Claude Sonnet 5 pro běžný vývoj i agentické workflow.",
+      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "title": "Copilot Agent je nově dostupný přímo v JetBrains AI Assistant.",
+      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://openai.com/index/introducing-genebench-pro",
+      "title": "OpenAI představuje GeneBench-Pro, benchmark pro genomiku, biologii a vědecké úlohy.",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI News"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "IBM Research publikuje ScarfBench pro měření agentů při migraci enterprise Java frameworků.",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://vercel.com/changelog/an-expanded-vercel-agent-chat-investigations-and-approved-actions-now-in-public-beta",
+      "title": "Vercel Agent v public betě rozšiřuje chat, investigations a schvalované akce.",
+      "url": "https://vercel.com/changelog/an-expanded-vercel-agent-chat-investigations-and-approved-actions-now-in-public-beta",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/blog/dockerfile-on-vercel",
+      "title": "Vercel nově umí spouštět libovolný Dockerfile, což rozšiřuje deployment pro buildery a agentické služby.",
+      "url": "https://vercel.com/blog/dockerfile-on-vercel",
+      "source": "Vercel Blog"
+    }
+  ]
+}

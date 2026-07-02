@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-02",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "title": "Claude Code 2.1.198 přidává Claude v Chromu, notifikace pro background agenty a nové hook eventy.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.13",
+      "title": "OpenCode 1.17.13 zlepšuje reasoning u OpenAI-kompatibilních modelů a opravuje Copilot follow-up ID.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.13",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2a2",
+      "title": "CrewAI 1.15.2 alpha rozšiřuje flow/skill dokumentaci a Bedrock extra o aiobotocore.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2a2",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/google%404.0.6",
+      "title": "Vercel AI SDK přidává vertex.interactions() pro Gemini Interactions API na Vertex AI.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/google%404.0.6",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
+      "title": "vLLM 0.24.0 přináší podporu MiniMax-M3 a velký balík výkonových a modelových změn.",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
+      "source": "vLLM"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9859",
+      "title": "llama.cpp b9859 umí u OpenCL načítat předkompilované binární kernely z knihovny.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9859",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "title": "GitHub Copilot zpřístupňuje open-weight model Kimi K2.7 Code v model pickeru.",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "title": "Copilot Vision je obecně dostupný a umí pracovat s obrázky i PDF přímo v chatu.",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "title": "Copilot CLI a SDK nově podporují limity AI kreditů pro agentické session.",
+      "url": "https://github.blog/changelog/2026-07-01-set-ai-credit-session-limits-in-copilot-cli-and-sdk",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+      "title": "Vercel vydává konsistent pro vynucení stejných code pravidel u agentů i lidí.",
+      "url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/dry-run-deployments-with-vercel-cli",
+      "title": "Vercel CLI dostává dry-run deployments pro bezpečnější kontrolu nasazení.",
+      "url": "https://vercel.com/changelog/dry-run-deployments-with-vercel-cli",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "Hugging Face a Cerebras ukazují Gemma 4 pro realtime voice AI.",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}

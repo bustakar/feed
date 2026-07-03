@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-03",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.199",
+      "title": "Claude Code 2.1.199 lépe skládá více slash skillů a vrací partial výsledky ze subagentů při chybách.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.199",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.142.5",
+      "title": "OpenAI Codex 0.142.5 opravuje únik kompletních Responses WebSocket payloadů do trace logů.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.5",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
+      "title": "OpenClaw 2026.7.1 beta přidává attach pro externí harness, Telegram Codex workflow a event-driven cron běhy.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.14",
+      "title": "Vercel AI SDK 7.0.14 přidává experimentální streaming transcription pro OpenAI realtime Whisper a xAI WebSocket STT.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.14",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0b1",
+      "title": "MCP Python SDK vydává první v2 beta s podporou nové MCP specifikace a migrační dokumentací.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0b1",
+      "source": "MCP Python SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.2",
+      "title": "MCP TypeScript SDK 2.0 beta začíná vedle ESM dodávat i CommonJS buildy pro require() konzumenty.",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.2",
+      "source": "MCP TS SDK"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "title": "Copilot CLI v GitHub Actions už umí běžet s vestavěným GITHUB_TOKEN místo vlastního PAT.",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "title": "GitHub spouští public preview streamování Copilot agent sessions napříč klienty pro Enterprise Cloud.",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/ai-gateway-routing-rules",
+      "title": "Vercel AI Gateway přidává routing rules pro směrování AI provozu mezi providery a modely.",
+      "url": "https://vercel.com/changelog/ai-gateway-routing-rules",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9860",
+      "title": "llama.cpp b9860 vystavuje veřejné C API pro čtení názvu typu kvantizace modelu.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9860",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "IBM na Hugging Face představuje ScarfBench pro měření agentů při migraci enterprise Java frameworků.",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}

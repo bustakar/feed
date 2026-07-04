@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-04",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.201",
+      "title": "Claude Code opravuje práci se systémovými připomínkami v relacích Sonnet 5.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.201",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
+      "title": "OpenClaw přidává podporu GPT-5.6, připojení externího harnessu a Telegram workflow pro Codex.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.13.0",
+      "title": "Transformers 5.13.0 přidávají architektury Kimi K2.5–2.7 pro multimodální agentické modely.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.0",
+      "source": "Hugging Face Transformers"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.14",
+      "title": "Vercel AI SDK 7.0.14 přidává experimentální streamovanou transkripci pro realtime STT modely.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.14",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.2",
+      "title": "MCP TypeScript SDK 2.0 beta začíná vedle ESM dodávat i CommonJS buildy.",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.2",
+      "source": "MCP TypeScript SDK"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.90.3",
+      "title": "LiteLLM 1.90.3 dokumentuje ověřování podepsaných Docker image přes cosign.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.90.3",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.13",
+      "title": "OpenCode 1.17.13 opravuje reasoning u OpenAI kompatibilních modelů a problémy s Copilot odpověďmi.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.13",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "title": "Copilot CLI v GitHub Actions už nepotřebuje osobní token a stačí mu vestavěný GITHUB_TOKEN.",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "title": "GitHub spouští public preview streamingu dat ze session Copilot agentů pro Enterprise Cloud.",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/agent-runs-vercel-mcp-cli",
+      "title": "Vercel zpřístupňuje Agent Runs přes MCP a CLI.",
+      "url": "https://vercel.com/changelog/agent-runs-vercel-mcp-cli",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems",
+      "title": "Vercel Sandbox nově podporuje FUSE filesystémy pro náročnější vývojová prostředí.",
+      "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-fuse-based-filesystems",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/ai-gateway-routing-rules",
+      "title": "Vercel AI Gateway přidává routovací pravidla pro řízení provozu mezi modely a providery.",
+      "url": "https://vercel.com/changelog/ai-gateway-routing-rules",
+      "source": "Vercel Changelog"
+    }
+  ]
+}

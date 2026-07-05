@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-05",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.200",
+      "title": "Claude Code 2.1.200 mění dialogy AskUserQuestion, aby ve výchozím nastavení automaticky nepokračovaly.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.200",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.91.0",
+      "title": "LiteLLM 1.91.0 pokračuje v podepisování Docker image přes cosign a přináší stabilní release po sérii dev verzí.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.91.0",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9873",
+      "title": "llama.cpp b9873 přidává ochranu pro K/V rotaci při neinicializovaném bufferu v inference grafu.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9873",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9870",
+      "title": "llama.cpp b9870 zkracuje zprávy pro StepFun parser a opravuje dlouhé reasoning smyčky v chatu.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9870",
+      "source": "llama.cpp"
+    }
+  ]
+}

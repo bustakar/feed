@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-06",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.201",
+      "title": "Claude Code 2.1.201 upravuje relace Claude Sonnet 5 tak, aby nepoužívaly mid-conversation system role pro harness připomínky.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.201",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.2",
+      "title": "OpenClaw 2026.7.1 beta přidává podporu modelové rodiny GPT-5.6 v katalogu, capabilities i runtime výběru.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.2",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.13.0",
+      "title": "Transformers 5.13.0 přidává nové modely KimiK 2.5, 2.6 a 2.7.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.0",
+      "source": "Transformers"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/anthropic%403.0.93",
+      "title": "Vercel AI SDK opravuje Anthropic provider: `thinking: { type: 'disabled' }` se nově posílá do API místo odstranění.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/anthropic%403.0.93",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/openai%404.0.8",
+      "title": "Vercel AI SDK OpenAI provider posílá inline image file parts jako data URL místo holého base64.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/openai%404.0.8",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.1.6",
+      "title": "LangChain MistralAI 1.1.6 zpřístupňuje citation metadata z chat odpovědí.",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.1.6",
+      "source": "LangChain"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.2.6",
+      "title": "LangChain OpenRouter 0.2.6 přidává podporu `default_headers` pro vlastní HTTP hlavičky.",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openrouter%3D%3D0.2.6",
+      "source": "LangChain"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9878",
+      "title": "llama.cpp b9878 opravuje zastaralé tensor-split parametry pro draft modely.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9878",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://huggingface.co/blog/revamped-kernels",
+      "title": "Hugging Face představil větší aktualizaci projektu 🤗 Kernels.",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face"
+    }
+  ]
+}

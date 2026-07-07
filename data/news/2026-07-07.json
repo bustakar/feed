@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-07",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "title": "Claude Code 2.1.202 přidává nastavení velikosti dynamických workflow a lepší OpenTelemetry atributy pro agenty spouštěné workflow.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.14",
+      "title": "OpenCode 1.17.14 přidává MCP adaptér pro code mode a opravuje metadata u stránkovaných katalogů MCP nástrojů.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.14",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.16",
+      "title": "Vercel AI SDK 7.0.16 zachovává podepsaná metadata schvalování nástrojů při ukládání approval odpovědí.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.16",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9893",
+      "title": "llama.cpp b9893 přináší optimalizace OpenCL flash-attention decode kernelů a opravu pádu pro DK=512 u Gemma 4.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9893",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "Hugging Face vydal LeRobot v0.6.0 s tématem Imagine, Evaluate, Improve pro robotické workflow.",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face"
+    }
+  ]
+}

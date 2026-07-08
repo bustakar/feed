@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-08",
+  "items": [
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.143.0",
+      "title": "OpenAI Codex 0.143.0 zapíná vzdálené pluginy ve výchozím nastavení a rozšiřuje katalog o npm marketplace zdroje a verze pluginů.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "title": "Google rozšiřuje Managed Agents v Gemini API o background úlohy, remote MCP a další produkční agentní funkce.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2",
+      "title": "CrewAI 1.15.2 přidává dynamické načítání modelů ve wizardu, inline definice skillů a generovaný Flow Definition authoring skill.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.204",
+      "title": "Claude Code 2.1.204 opravuje streamování hook eventů u SessionStart hooků v headless režimu, aby remote workeři nepadali během dlouhých hooků.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.204",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "title": "GitHub Copilot desktop app je dostupná na všech Copilot plánech pro agentní vývoj z macOS, Windows a Linuxu.",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "title": "Kimi K2.7 je nově dostupný i pro Copilot Business a Enterprise po předchozím uvedení pro placené osobní plány.",
+      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/revamped-kernels",
+      "title": "Hugging Face výrazně aktualizoval Kernels pro rychlejší a jednodušší spouštění vlastních výpočetních workloadů.",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9909",
+      "title": "llama.cpp b9909 přidává timingy a progress do streamu /responses API serveru.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9909",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%406.0.221",
+      "title": "Vercel AI SDK 6.0.221 opravuje export isDynamicToolUIPart a brání prázdným assistant zprávám při převodu model messages.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%406.0.221",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://vercel.com/changelog/github-tools-eve",
+      "title": "Vercel eve agent získává GitHub tools pro práci s repozitáři přímo z agentního prostředí.",
+      "url": "https://vercel.com/changelog/github-tools-eve",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/skypilot-hf-storage",
+      "title": "SkyPilot a Hugging Face ukazují zero-egress storage pro AI workloady běžící napříč cloudy.",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face"
+    }
+  ]
+}

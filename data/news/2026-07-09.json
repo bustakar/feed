@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-09",
+  "items": [
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.143.0",
+      "title": "OpenAI Codex 0.143.0 zapíná vzdálené pluginy ve výchozím nastavení a přidává bohatší katalog s npm marketplace zdroji.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.143.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.205",
+      "title": "Claude Code 2.1.205 blokuje zásahy do session transcriptů a opravuje JSON schema i hook scénáře pro stabilnější agentní běhy.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.205",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2",
+      "title": "CrewAI 1.15.2 přidává dynamické načítání modelů ve wizardu, inline definice skillů a generovaný Flow Definition authoring skill.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/OpenHands/OpenHands/releases/tag/1.10.0",
+      "title": "OpenHands 1.10.0 přináší nové usage/monitoring rozhraní a další cloudové i agentní funkce pro open-source coding agenta.",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/1.10.0",
+      "source": "OpenHands"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.12",
+      "title": "LangChain 1.3.12 opravuje průchod interruptů přes ToolRetryMiddleware a bezpečnější shell middleware pro agentní nástroje.",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.12",
+      "source": "LangChain"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/xai%404.0.9",
+      "title": "Vercel AI SDK přidává podporu imageDetail provider option pro xAI image file party, aby šlo řídit rozlišení zpracování obrázků.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/xai%404.0.9",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://vercel.com/blog/vercel-agent",
+      "title": "Vercel představil Vercel Agent pro produkční vývoj a provoz aplikací v rámci své platformy.",
+      "url": "https://vercel.com/blog/vercel-agent",
+      "source": "Vercel Blog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "title": "GitHub shrnul červnové Copilot novinky ve VS Code 1.123 až 1.127 zaměřené na každodenní agentní vývoj.",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Hugging Face a NVIDIA publikují Open Data for Agents jako datový zdroj pro vývoj a evaluaci agentních systémů.",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "title": "Hugging Face popisuje native-speed vLLM backend pro Transformers modely s cílem zrychlit praktické inference nasazení.",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "OpenAI analyzuje slabiny SWE-Bench Pro a upozorňuje na šum v hodnocení schopností coding modelů.",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://openai.com/index/introducing-gpt-live",
+      "title": "OpenAI představuje GPT-Live, novou generaci hlasových modelů pro přirozenější interakce v ChatGPT Voice.",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI"
+    }
+  ]
+}

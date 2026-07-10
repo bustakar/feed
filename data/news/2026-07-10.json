@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-10",
+  "items": [
+    {
+      "id": "https://openai.com/index/gpt-5-6",
+      "title": "OpenAI představuje GPT-5.6 s vyšším výkonem na token a novými variantami Sol, Terra a Luna pro různě náročné úlohy.",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "title": "OpenAI popisuje ChatGPT Work jako dlouhoběžícího pracovního agenta, který může pracovat napříč aplikacemi a soubory.",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "title": "GitHub Copilot začíná nabízet modely GPT-5.6 Sol, Terra a Luna pro výběr modelu podle náročnosti práce.",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+      "title": "Claude Code 2.1.206 přidává návrhy cest pro /cd a /doctor kontrolu pro zkracování verzovaných CLAUDE.md souborů.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.144.0",
+      "title": "OpenAI Codex 0.144.0 přidává režim schvalování writes, lepší přehled reset kreditů a další vylepšení CLI workflow.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.18",
+      "title": "OpenCode 1.17.18 opravuje pády a chybné ceny při nulovém billing batch size z GitHub Copilotu a přidává prompt pro Meta Muse Spark.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.18",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.19",
+      "title": "Vercel AI SDK 7.0.19 přidává fingerprintTools a detectToolDrift pro detekci změn definic MCP nástrojů.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.19",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.3",
+      "title": "MCP TypeScript SDK vydává server 2.0.0 beta 3 s dalšími změnami pro nové serverové balíčky a integrace.",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.3",
+      "source": "MCP TypeScript SDK"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "title": "GitHub Copilot umí na stránce repozitáře vygenerovat rychlý overview pro první orientaci v cizím projektu.",
+      "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "title": "Google rozšiřuje Managed Agents v Gemini API o background tasks, vzdálené MCP a další schopnosti pro produkční agenty.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog"
+    }
+  ]
+}

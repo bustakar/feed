@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-12",
+  "items": [
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.5",
+      "title": "OpenClaw 2026.7.1 beta přidává agentní onboarding, ClawRouter pro modely a quota reporting napříč CLI, webem a macOS.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1-beta.5",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0",
+      "title": "vLLM 0.25.0 zapíná Model Runner V2 jako výchozí cestu pro dense modely a odstraňuje starý PagedAttention backend.",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.0",
+      "source": "vLLM"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.13.1",
+      "title": "Transformers 5.13.1 je patch zaměřený na kompatibilitu s nejnovějším vLLM a custom modely.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.13.1",
+      "source": "Hugging Face Transformers"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9968",
+      "title": "llama.cpp b9968 přidává OpenCL int8 dp4 dense a MoE prefill optimalizace pro Adreno GPU.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9968",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9967",
+      "title": "llama.cpp b9967 dovoluje serverovým klientům posílat null sampling parametry podle OpenAI-style API.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9967",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/groq%404.0.8",
+      "title": "Vercel AI SDK opravuje Groq provider tak, aby správně reportoval prompt-cache hity v usage metrikách.",
+      "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk/groq%404.0.8",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway",
+      "title": "Vercel AI Gateway přidává Seedream 5.0 Pro pro generování obrázků přes jednotné gateway API.",
+      "url": "https://vercel.com/changelog/seedream-5-0-pro-is-now-available-on-ai-gateway",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.92.0",
+      "title": "LiteLLM 1.92.0 publikuje podepsané Docker image a dokumentuje ověřování přes cosign.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.92.0",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://openai.com/index/gpt-5-6",
+      "title": "OpenAI představilo GPT-5.6 jako novou frontier modelovou řadu s vyšším výkonem na token a škálovatelným reasoningem.",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "title": "GitHub Copilot nasazuje GPT-5.6 varianty Sol, Terra a Luna pro různé coding a reasoning úlohy.",
+      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
+      "source": "GitHub Changelog"
+    }
+  ]
+}

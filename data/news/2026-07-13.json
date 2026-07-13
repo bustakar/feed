@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-13",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "title": "Claude Code 2.1.207 zapíná Auto mode bez opt-inu na Bedrocku, Vertex AI a Foundry a opravuje lagování terminálu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.22",
+      "title": "Vercel AI SDK 7.0.22 přidává Cartesia provider pro Sonic 3.5 speech, Ink-Whisper batch transkripci a realtime Ink 2.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.22",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9982",
+      "title": "llama.cpp b9982 umožňuje nastavovat reasoning_budget_tokens po jednotlivých chat-completions requestech.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9982",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.13",
+      "title": "LangChain 1.3.13 přidává meta extra, podporu langchain-meta v init_chat_model a explicitní prompt caching pro OpenAI.",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.3.13",
+      "source": "LangChain"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "title": "CodeQL 2.26.0 přidává podporu Kotlinu 2.4.0 a detekci AI prompt injection v code scanningu.",
+      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "title": "GitHub Mobile zlepšuje filtrování a řazení Copilot sessions, aby šly rychleji dohledat rozpracované agentní běhy.",
+      "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views",
+      "title": "Vercel Traces přidávají Tree a Waterfall pohledy pro ladění výkonu a návazností v aplikacích.",
+      "url": "https://vercel.com/changelog/traces-now-support-tree-and-waterfall-views",
+      "source": "Vercel Changelog"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-14",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.208",
+      "title": "Claude Code 2.1.208 přidává režim pro čtečky obrazovky, mapování vim insert zkratek a podporu firemního process wrapperu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.208",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.144.2",
+      "title": "OpenAI Codex 0.144.2 vrací předchozí Guardian auto-review politiku po regresi v promptování.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.2",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.17.20",
+      "title": "OpenCode 1.17.20 aktualizuje Azure AI podporu pro GPT-5.6 a odstraňuje starý workaround pro Codex.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.17.20",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1",
+      "title": "OpenClaw 2026.7.1 stabilizuje novou vlnu modelů a providerů včetně Claude Sonnet 5, ClawRouteru a GPT-5.6 výchozího nastavení.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.26",
+      "title": "Vercel AI SDK 7.0.26 lépe seskupuje osiřelé tool cally po schválení nástrojů pod parent span v tracingu.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.26",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.4",
+      "title": "MCP TypeScript SDK 2.0 beta přesouvá sdílená schémata a protokolové konstanty do společného @modelcontextprotocol/core balíčku.",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.4",
+      "source": "MCP TypeScript SDK"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9993",
+      "title": "llama.cpp b9993 přidává podporu Tencent Hunyuan 3 architektury Hy3 včetně MTP speculative decodingu.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9993",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://vercel.com/changelog/chat-sdk-adds-x-adapter-support",
+      "title": "Vercel Chat SDK přidává X adapter pro napojení chatových rozhraní na platformu X.",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-x-adapter-support",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects",
+      "title": "Vercel Agent Runs nově ukazují aktivitu subagentů v eve projektech.",
+      "url": "https://vercel.com/changelog/agent-runs-now-show-subagent-activity-on-eve-projects",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://vercel.com/blog/ai-gateway-production-index-july-2026",
+      "title": "Vercel AI Gateway hlásí, že open-weight modely vyrostly na 29 % produkčního objemu a cena za token se zplošťuje.",
+      "url": "https://vercel.com/blog/ai-gateway-production-index-july-2026",
+      "source": "Vercel Blog"
+    }
+  ]
+}

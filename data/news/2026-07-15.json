@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-15",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
+      "title": "Claude Code 2.1.210 přidává živé počítadlo času u dlouhých tool callů a varování pro path permission prompt injection.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.18.0",
+      "title": "OpenCode 1.18.0 dokončuje migraci Desktopu v2 včetně nového layoutu a first-launch onboardingu.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.0",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.27",
+      "title": "Vercel AI SDK 7.0.27 opravuje validaci prázdných assistant zpráv a zlepšuje streamované transkripce.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.27",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0b2",
+      "title": "MCP Python SDK vydává druhou beta verzi 2.0 s oddělenou dokumentací a opt-in instalací.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0b2",
+      "source": "MCP Python SDK"
+    },
+    {
+      "id": "https://github.com/vllm-project/vllm/releases/tag/v0.25.1",
+      "title": "vLLM 0.25.1 přináší cílený patch release s opravami pro spouštění modelů a stabilitu runneru.",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.25.1",
+      "source": "vLLM"
+    },
+    {
+      "id": "https://github.com/ggml-org/llama.cpp/releases/tag/b9999",
+      "title": "llama.cpp b9999 přidává SME2 f32 kernel přes KleidiAI a dynamické plánování pro nové ARM akcelerace.",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/b9999",
+      "source": "llama.cpp"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "title": "GitHub Copilot pro JetBrains rozšiřuje BYOK možnosti a flexibilitu model providerů.",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "title": "GitHub Copilot ve Visual Studiu přidává přehled spotřeby, trust vrstvu pro MCP servery a první C++ scénáře.",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "title": "GitHub code scanning nově ukazuje AI bezpečnostní detekce přímo v pull requestech.",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli",
+      "title": "Vercel Plugin je nově dostupný ve VS Code a GitHub Copilot CLI pro práci s projekty přímo v editoru.",
+      "url": "https://vercel.com/changelog/vercel-plugin-now-available-in-vs-code-and-github-copilot-cli",
+      "source": "Vercel Changelog"
+    }
+  ]
+}

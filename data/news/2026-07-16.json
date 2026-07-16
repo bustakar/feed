@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-16",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
+      "title": "Claude Code 2.1.211 přidává forwardování subagent textu a opravuje permission preview v chatu.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
+      "title": "OpenAI Codex 0.144.5 zpřísňuje detekci nebezpečných příkazů včetně dalších variant rm.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.18.2",
+      "title": "OpenCode 1.18.2 omezuje nested subagenty přes subagent_depth a ladí reasoning pro Meta modely.",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.2",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1",
+      "title": "OpenClaw 2026.7.2 beta přidává remote coding sessions na cloud workerech a obnovování agent sessionů.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.1",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/huggingface/transformers/releases/tag/v5.14.0",
+      "title": "Transformers 5.14.0 přidává podporu modelu Inkling od Thinking Machines a další nové architektury.",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.14.0",
+      "source": "Transformers"
+    },
+    {
+      "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "title": "OpenAI představuje GPT-Red pro automatizovaný red teaming a zlepšování robustnosti modelů.",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "title": "Allen AI na Hugging Face popisuje, co je naučilo stavění agentu Shippy.",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway",
+      "title": "Vercel AI Gateway nově nabízí model Inkling od Thinking Machines.",
+      "url": "https://vercel.com/changelog/inkling-from-thinking-machines-is-now-available-on-ai-gateway",
+      "source": "Vercel Changelog"
+    },
+    {
+      "id": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.0",
+      "title": "ComfyUI 0.28.0 přináší další úpravy okolo AGENTS.md a podporu Qwen image workflow oprav.",
+      "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.0",
+      "source": "ComfyUI"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-18",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+      "title": "Claude Code 2.1.214 zavírá několik permission bypassů v Bash/PowerShellu a zpřísňuje dlouhé příkazy.",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
+      "title": "OpenAI Codex 0.144.5 zlepšuje detekci nebezpečných příkazů a jasněji vysvětluje blokace.",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2",
+      "title": "OpenClaw 2026.7.2 beta přidává vzdálené coding sessions, mobilní automations a bezpečnější kanály.",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.2",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.4",
+      "title": "CrewAI 1.15.4 povyšuje Skills Repository z experimentálního režimu a doplňuje dokumentaci Flows ve Studiu.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.4",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.31",
+      "title": "Vercel AI SDK 7.0.31 opravuje stav zamítnutých tool approvalů a pořadí callbacků u non-streaming tool calls.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.31",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "title": "Copilot code review dostává firewall, vlastní setup kroky a oddělené runner konfigurace.",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "title": "GitHub Copilot usage API nově ukazuje metriky coding agenta a code review na úrovni repozitářů.",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "title": "Allen AI na Hugging Face rozebírá praktické lekce ze stavby agentního systému Shippy.",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "title": "NVIDIA a Hugging Face ukazují škálované fine-tuning workflow pro video a image modely přes NeMo Automodel a Diffusers.",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support",
+      "title": "Vercel Chat SDK přidává nativní podporu Slack agentů pro AI workflow uvnitř týmových konverzací.",
+      "url": "https://vercel.com/changelog/chat-sdk-adds-native-slack-agent-support",
+      "source": "Vercel Changelog"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-20",
+  "items": [
+    {
+      "id": "https://github.com/cline/cline/releases/tag/cli-v3.0.45",
+      "title": "Cline CLI 3.0.45 zmenšuje instalaci načítáním Claude Code a Codex providerů až na vyžádání a přidává Kimi K3 do fallback modelů.",
+      "url": "https://github.com/cline/cline/releases/tag/cli-v3.0.45",
+      "source": "Cline"
+    },
+    {
+      "id": "https://cursor.com/changelog/slack-improvements",
+      "title": "Cursor ve Slacku nově před spuštěním ukazuje plán, umí multi-repo prostředí a pracuje napříč kanály i vlákny.",
+      "url": "https://cursor.com/changelog/slack-improvements",
+      "source": "Cursor"
+    },
+    {
+      "id": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.13.0",
+      "title": "Pydantic AI 2.13.0 přidává volbu pro instrumentaci model_request_parameters, lepší práci s content filter chybami a rozšíření usage metrik.",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.13.0",
+      "source": "Pydantic AI"
+    },
+    {
+      "id": "https://github.com/BerriAI/litellm/releases/tag/v1.93.0",
+      "title": "LiteLLM 1.93.0 přidává Entra OBO profil pro MCP token exchange a opravuje streaming hlavičky Anthropic Messages i Bedrock SSE chyby.",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.93.0",
+      "source": "LiteLLM"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.4",
+      "title": "CrewAI 1.15.4 posouvá Skills Repository z experimentálního režimu a doplňuje dokumentaci pro Flows ve Studiu.",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.4",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.31",
+      "title": "Vercel AI SDK 7.0.31 opravuje stav odmítnutých tool approval výstupů a pořadí input eventů u non-streaming tool callů.",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.31",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "title": "Hugging Face ukazuje škálované fine-tunování video a image modelů přes NVIDIA NeMo Automodel a Diffusers.",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog"
+    }
+  ]
+}

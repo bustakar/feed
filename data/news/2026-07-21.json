@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-21",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.216",
+      "title": "Claude Code zrychluje dlouhé seance a přidává jemnější sandbox nastavení",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.216",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.14.0",
+      "title": "Pydantic AI přidává podporu reasoning effort a nové durability backendy",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.14.0",
+      "source": "Pydantic AI"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.18.4",
+      "title": "OpenCode vylepšuje Kimi reasoning a spolehlivost OpenAI providera",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.4",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.3",
+      "title": "OpenClaw beta přináší vzdálené coding sessions pro cloud workery",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.7.2-beta.3",
+      "source": "OpenClaw"
+    },
+    {
+      "id": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.0.65",
+      "title": "Cline SDK zmenšuje instalaci díky volitelným Claude Code a Codex providerům",
+      "url": "https://github.com/cline/cline/releases/tag/sdk/sdk/v0.0.65",
+      "source": "Cline"
+    },
+    {
+      "id": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.5",
+      "title": "CrewAI přidává autentizaci pro stahování skill registry",
+      "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.5",
+      "source": "CrewAI"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.32",
+      "title": "Vercel AI SDK opravuje streamování nástrojů a abort důvody",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.32",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0",
+      "title": "LangChain Core standardizuje parametr reasoning_effort pro chat modely",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.5.0",
+      "source": "LangChain"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.144.6",
+      "title": "OpenAI Codex opravuje instrukce a kontextová okna pro nové GPT-5.6 modely",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.6",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "title": "GitHub Code Quality je obecně dostupný pro týmy a enterprise",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/configure-where-run-state-lives-in-vercel-workflows",
+      "title": "Vercel Workflows dovolují nastavit, kde žije run state",
+      "url": "https://vercel.com/changelog/configure-where-run-state-lives-in-vercel-workflows",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "title": "Hugging Face představuje NVIDIA Cosmos 3 Edge pro edge AI video modely",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face"
+    }
+  ]
+}

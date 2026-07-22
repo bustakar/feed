@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-22",
+  "items": [
+    {
+      "id": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.15.0",
+      "title": "Pydantic AI 2.15.0 přidává explicitní prompt caching pro GPT-5.6 a lepší práci se soubory v Mistralu",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.15.0",
+      "source": "Pydantic AI"
+    },
+    {
+      "id": "https://github.com/cline/cline/releases/tag/desktop-v0.0.2",
+      "title": "Cline vydává první veřejnou desktopovou aplikaci pro macOS na spouštění a inspekci agentních sessions",
+      "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.2",
+      "source": "Cline"
+    },
+    {
+      "id": "https://github.com/openai/codex/releases/tag/rust-v0.145.0",
+      "title": "OpenAI Codex 0.145.0 přidává experimentální historii vláken s resume, vyhledáváním, sub-agenty a memories",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0",
+      "source": "OpenAI Codex"
+    },
+    {
+      "id": "https://vercel.com/blog/vercel-agent",
+      "title": "Vercel představuje nového Vercel Agenta pro vývojářské workflow na své platformě",
+      "url": "https://vercel.com/blog/vercel-agent",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-mcp-now-supports-purchases",
+      "title": "Vercel MCP nově podporuje nákupy přes MCP workflow",
+      "url": "https://vercel.com/changelog/vercel-mcp-now-supports-purchases",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.33",
+      "title": "Vercel AI SDK 7.0.33 opravuje opakované tool call ID, provider options a rozpoznání MP4 audia při transkripci",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.33",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "title": "GitHub Copilot zpřístupňuje Gemini 3.6 Flash pro web, app development a delší agentní úlohy",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "OpenAI popisuje bezpečnostní lekce z nasazování dlouho běžících agentních modelů",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI"
+    },
+    {
+      "id": "https://huggingface.co/blog/grabette",
+      "title": "Hugging Face představuje Grabette, otevřený systém pro sběr dat z robotické manipulace",
+      "url": "https://huggingface.co/blog/grabette",
+      "source": "Hugging Face"
+    },
+    {
+      "id": "https://vercel.com/changelog/service-tiers-now-available-on-ai-gateway",
+      "title": "Vercel AI Gateway přidává service tiers pro řízení výkonu a ceny modelových volání",
+      "url": "https://vercel.com/changelog/service-tiers-now-available-on-ai-gateway",
+      "source": "Vercel"
+    }
+  ]
+}

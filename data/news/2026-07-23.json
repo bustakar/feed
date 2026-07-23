@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-23",
+  "items": [
+    {
+      "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.218",
+      "title": "Claude Code 2.1.218 přesouvá code-review do background subagenta a zlepšuje přístupnost CLI",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.218",
+      "source": "Claude Code"
+    },
+    {
+      "id": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.16.0",
+      "title": "Pydantic AI 2.16.0 přidává Mistral prompt cache key, model-visible ToolFailed a run_id pro durable agentní běhy",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.16.0",
+      "source": "Pydantic AI"
+    },
+    {
+      "id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0",
+      "title": "Gemini CLI 0.52.0 rozšiřuje caretaker/triage moduly a upravuje práci s workspace contextem",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0",
+      "source": "Gemini CLI"
+    },
+    {
+      "id": "https://github.com/anomalyco/opencode/releases/tag/v1.18.4",
+      "title": "OpenCode 1.18.4 přidává adaptivní thinking controls pro Kimi na Anthropic-compatible providerech",
+      "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.4",
+      "source": "OpenCode"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.35",
+      "title": "Vercel AI SDK 7.0.35 přidává per-step timeout pro první obsah ve streaming generacích",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.35",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription",
+      "title": "Vercel AI Gateway nově podporuje streaming transcription",
+      "url": "https://vercel.com/changelog/ai-gateway-now-supports-streaming-transcription",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://vercel.com/changelog/eve-extensions",
+      "title": "Vercel umožňuje rozšiřovat eve agenty pomocí instalovatelných extensions",
+      "url": "https://vercel.com/changelog/eve-extensions",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "title": "GitHub Code Quality je obecně dostupný pro kontrolu kvality kódu v době AI-generovaného outputu",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.5",
+      "title": "MCP TypeScript SDK vydává server 2.0.0-beta.5 s minor změnami v nové 2.0 větvi",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol/server%402.0.0-beta.5",
+      "source": "MCP TypeScript SDK"
+    },
+    {
+      "id": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "title": "OpenAI shrnuje bezpečnostní lekce z nasazování dlouho běžících agentních modelů",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI"
+    }
+  ]
+}

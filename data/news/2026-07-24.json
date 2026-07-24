@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-24",
+  "items": [
+    {
+      "id": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.17.0",
+      "title": "Pydantic AI 2.17.0 připravuje rozšířené usage metriky pro ceny a opravuje OpenAI builtin tools",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.17.0",
+      "source": "Pydantic AI"
+    },
+    {
+      "id": "https://github.com/cline/cline/releases/tag/desktop-v0.0.4",
+      "title": "Cline Desktop 0.0.4 přidává chat bez workspace, onboarding a drag-and-drop přílohy",
+      "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.4",
+      "source": "Cline"
+    },
+    {
+      "id": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.0-preview.0",
+      "title": "Gemini CLI 0.53.0 preview přidává LLM triage orchestrator a lepší A2A tool-response handling",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.0-preview.0",
+      "source": "Gemini CLI"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "title": "Copilot cloud agent pro Linear je obecně dostupný pro asynchronní práci na issues",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "title": "GitHub MCP Server podporuje nadcházející stateless specifikaci MCP",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "title": "GitHub Mobile umí poslat selhané Actions checks Copilot cloud agentovi k opravě",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "title": "GitHub Issues ukazuje a kontroluje automatické změny od agentů v public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "source": "GitHub Changelog"
+    },
+    {
+      "id": "https://vercel.com/changelog/vercel-mcp-can-now-deploy-code",
+      "title": "Vercel MCP nově umí nasazovat kód přímo z model-context workflow",
+      "url": "https://vercel.com/changelog/vercel-mcp-can-now-deploy-code",
+      "source": "Vercel"
+    },
+    {
+      "id": "https://github.com/vercel/ai/releases/tag/ai%407.0.36",
+      "title": "Vercel AI SDK 7.0.36 opravuje HMAC podpisy pro tool approvals ve streamovaných agentech",
+      "url": "https://github.com/vercel/ai/releases/tag/ai%407.0.36",
+      "source": "Vercel AI SDK"
+    },
+    {
+      "id": "https://huggingface.co/blog/nunchaku-diffusers",
+      "title": "Hugging Face ukazuje Nunchaku 4bit diffusion inference v Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://openai.com/index/introducing-openai-presence",
+      "title": "OpenAI představuje Presence jako platformu pro firemní voice a chat agenty",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI"
+    }
+  ]
+}
